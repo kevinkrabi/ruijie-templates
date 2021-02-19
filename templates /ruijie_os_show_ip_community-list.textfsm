@@ -1,0 +1,26 @@
+Value Required,Filldown TYPE (standard|expanded)
+Value Required,Filldown NAME (\S+)
+Value Required ACTION (permit|deny)
+Value List AS (\d+)
+Value List TAG (\d+)
+Value COMMUNITY (\D+)
+
+Start
+  ^Community\s+${TYPE}\s+list\s+${NAME}\s*$$
+  ^Community\s+\(${TYPE}\)\s+access\s+list\s+${NAME}\s*$$
+  ^Named\s+Community\s+${TYPE}\s+list\s+${NAME}\s*$$
+  ^\s+${ACTION}\s+\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+\"*\d+:\d+\"*\s+\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){2}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){3}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){4}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){5}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){6}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){7}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){8}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){9}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+(?:permit|deny)\s+(?:\"*\d+:\d+\"*\s+){10}\"*${AS}:${TAG}\"* -> Continue
+  ^\s+.+\"*\d+:\d+\"*\s+${COMMUNITY}\s*$$ -> Continue
+  ^\s+${ACTION}\s+${COMMUNITY}\s*$$ -> Continue
+  ^\s+ -> Record
+

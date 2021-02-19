@@ -1,0 +1,7 @@
+Value DEV (\d\S*)
+Value MODULE (\w+)
+Value LEVEL (\w+)
+Value INFO (\S.*?)
+
+Start
+  ^${DEV}\s+${MODULE}\s+${LEVEL}\s+${INFO}\s*$$ -> Record

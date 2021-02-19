@@ -1,0 +1,58 @@
+Interface                        Switchport Mode      Access Native Protected VLAN lists
+-------------------------------- ---------- --------- ------ ------ --------- ----------------------
+HundredGigabitEthernet 1/1       disabled                           Disabled 
+HundredGigabitEthernet 1/1.503   disabled                           Disabled 
+HundredGigabitEthernet 1/1.504   disabled                           Disabled 
+HundredGigabitEthernet 1/2       enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/3       enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/4       enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/5       disabled                           Disabled 
+HundredGigabitEthernet 1/6       disabled                           Disabled 
+HundredGigabitEthernet 1/7       disabled                           Disabled 
+HundredGigabitEthernet 1/8       disabled                           Disabled 
+HundredGigabitEthernet 1/9       disabled                           Disabled 
+HundredGigabitEthernet 1/9.31    disabled                           Disabled 
+HundredGigabitEthernet 1/9.32    disabled                           Disabled 
+HundredGigabitEthernet 1/10      disabled                           Disabled 
+HundredGigabitEthernet 1/10.33   disabled                           Disabled 
+HundredGigabitEthernet 1/10.34   disabled                           Disabled 
+HundredGigabitEthernet 1/11      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/12      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/13      disabled                           Disabled 
+HundredGigabitEthernet 1/14      disabled                           Disabled 
+HundredGigabitEthernet 1/15      disabled                           Disabled 
+HundredGigabitEthernet 1/16      disabled                           Disabled 
+HundredGigabitEthernet 1/17      disabled                           Disabled 
+HundredGigabitEthernet 1/18      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/19      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/20      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/21      disabled                           Disabled 
+HundredGigabitEthernet 1/22      disabled                           Disabled 
+HundredGigabitEthernet 1/23      disabled                           Disabled 
+HundredGigabitEthernet 1/24      disabled                           Disabled 
+HundredGigabitEthernet 1/25      disabled                           Disabled 
+HundredGigabitEthernet 1/26      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/27      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/28      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 1/29      disabled                           Disabled 
+HundredGigabitEthernet 1/30      disabled                           Disabled 
+HundredGigabitEthernet 1/31      disabled                           Disabled 
+HundredGigabitEthernet 1/32      disabled                           Disabled 
+HundredGigabitEthernet 2/1       disabled                           Disabled 
+HundredGigabitEthernet 2/1.503   disabled                           Disabled 
+HundredGigabitEthernet 2/1.504   disabled                           Disabled 
+HundredGigabitEthernet 2/2       enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 2/3       enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 2/4       enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 2/5       disabled                           Disabled 
+HundredGigabitEthernet 2/6       disabled                           Disabled 
+HundredGigabitEthernet 2/7       disabled                           Disabled 
+HundredGigabitEthernet 2/8       disabled                           Disabled 
+HundredGigabitEthernet 2/9       disabled                           Disabled 
+HundredGigabitEthernet 2/9.35    disabled                           Disabled 
+HundredGigabitEthernet 2/9.36    disabled                           Disabled 
+HundredGigabitEthernet 2/10      disabled                           Disabled 
+HundredGigabitEthernet 2/10.37   disabled                           Disabled 
+HundredGigabitEthernet 2/10.38   disabled                           Disabled 
+HundredGigabitEthernet 2/11      enabled    ACCESS    1      1      Disabled  ALL
+HundredGigabitEthernet 2/12      enabled    ACCESS    1      1      Disabled  ALL

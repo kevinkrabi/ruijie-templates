@@ -1,0 +1,18 @@
+---
+parsed_sample:
+  - fan_id: "1"
+    fan_type: "M6510-FAN-F"
+    sn: "G1ML72H001055"
+    status: "ok"
+  - fan_id: "2"
+    fan_type: "M6510-FAN-F"
+    sn: "G1ML90X001254"
+    status: "ok"
+  - fan_id: "3"
+    fan_type: "M6510-FAN-F"
+    sn: "G1ML91J00060B"
+    status: "ok"
+  - fan_id: "4"
+    fan_type: "M6510-FAN-F"
+    sn: "G1MB143003599"
+    status: "ok"

@@ -1,0 +1,9 @@
+---
+parsed_sample:
+  - switch: "S6220-48XS6QXS-H"
+    start_time: "2020-06-19 11:13:11"
+    uptime: "0:00:44:38"
+    version: "S6220_RGOS 11.0(5)B9P19"
+    patch: "NA"
+    boot_version: "1.2.34.dcb9477(170908)"
+    rboot_version: ""

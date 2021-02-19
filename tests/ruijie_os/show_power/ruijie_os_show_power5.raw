@@ -1,0 +1,14 @@
+ASW1#show power
+Name              Slot Status       Attribute Conexist Hardware Version Serial              Temperature Exception
+----------------- ---- ------------ --------- -------- ---------------- ------------------- ----------- --------------------
+RG-M6220-AC460E-F 1/1  disconnect   -F        yes      V1.21            K869SZ00A7AJZ       N/A         N/A
+RG-M6220-AC460E-F 1/2  ok           -F        yes      V1.21            K869SZ00ADAJZ       25          N/A
+RG-M6220-AC460E-F 2/1  disconnect   -F        yes      V1.22            0360317080869       N/A         N/A
+RG-M6220-AC460E-F 2/2  ok           -F        yes      V1.22            0360317080914       33          N/A
+                        Rated     Input      Input       Output     Output     Output 
+Name              Slot Power(W) Voltage(V) Current(mA) Voltage(V) Current(mA) Power(W)
+----------------- ---- -------- ---------- ----------- ---------- ----------- --------
+RG-M6220-AC460E-F 1/1  N/A      N/A        N/A         N/A        N/A         N/A     
+RG-M6220-AC460E-F 1/2  460      235        359         12         5125        63      
+RG-M6220-AC460E-F 2/1  N/A      N/A        N/A         N/A        N/A         N/A     
+RG-M6220-AC460E-F 2/2  460      231        296         12         4734        58      

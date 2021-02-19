@@ -1,0 +1,10 @@
+Value Required INTERFACE (\S+)
+Value SAMP_TIME (\d+\s+\w+)
+Value INPUT_RATE_BITS (\d+)
+Value INPUT_RATE_PACKETS (\d+)
+Value OUTPUT_RATE_BITS (\d+)
+Value OUTUT_RATE_PACKETS (\d+)
+
+Start
+  ^Interface\s+Sampling\s+Time\s+Input\s+Rate\s+Input\s+Rate\s+Output\s+Rate\s+Output\s+Rate\s*$$
+  ^${INTERFACE}\s+${SAMP_TIME}\s+${INPUT_RATE_BITS}\s+${INPUT_RATE_PACKETS}\s+${OUTPUT_RATE_BITS}\s+${OUTUT_RATE_PACKETS} -> Record

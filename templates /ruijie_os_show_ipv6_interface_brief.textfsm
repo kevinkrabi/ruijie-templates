@@ -1,0 +1,11 @@
+Value INTF (\S+\s+\S+)
+Value List IPADDR (\S+)
+Value ADMIN (\S+|\S+\s\S+)
+Value PROTOCOL (\S+|\S+\s\S+)
+
+
+Start
+  ^(\S+\s+\S+)\s*\[(\S+|\S+\s\S+)/(\S+|\S+\s\S+)\] -> Continue.Record
+  ^${INTF}\s*\[${ADMIN}/${PROTOCOL}\]
+  ^\s+${IPADDR}
+

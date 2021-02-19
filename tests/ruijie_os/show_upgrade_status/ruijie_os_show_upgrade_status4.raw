@@ -1,0 +1,40 @@
+DSW2#show upgrade status 
+[Slot M1]
+        Device type     : ca-octeon-cmx
+        Status          : success
+[Slot 7]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot 3]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot 2]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot 4]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot 5]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot 8]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot FE3]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot FE1]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot FE5]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot M2]
+        Device type     : ca-octeon-cmx
+        Status          : success
+[Slot 1]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success
+[Slot 6]
+        Device type     : ca-octeon-lc-emmc
+        Status          : success

@@ -1,0 +1,8 @@
+Value Required INTERFACE (\S+\s+\S+)
+Value STATUS (up|down)
+Value ADMIN_DOWN (up|down)
+Value DESCRIPTION (.*?)
+
+Start
+  ^Interface\s+Status\s+Administrative\s+Description\s*
+  ^${INTERFACE}\s+${STATUS}\s+${ADMIN_DOWN}\s+${DESCRIPTION}\s*$$ -> Record

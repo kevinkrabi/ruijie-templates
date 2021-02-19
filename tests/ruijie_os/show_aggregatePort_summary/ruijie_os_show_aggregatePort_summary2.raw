@@ -1,0 +1,10 @@
+AggregatePort MaxPorts SwitchPort Mode   Ports                              
+------------- -------- ---------- ------ -----------------------------------
+Ag101         64       Disabled          Hu1/1/1 ,Hu1/1/2 ,Hu1/2/1 ,Hu1/2/2 
+                                         Hu2/1/1 ,Hu2/1/2 ,Hu2/2/1 ,Hu2/2/2 
+Ag102         64       Disabled          Hu1/1/3 ,Hu1/1/4 ,Hu1/2/3 ,Hu1/2/4 
+                                         Hu2/1/3 ,Hu2/1/4 ,Hu2/2/3 
+Ag103         64       Enabled    TRUNK  Fo1/3/1 ,Fo1/4/1 
+Ag104         64       Enabled    TRUNK  Fo1/3/2 ,Fo1/4/2 ,Fo2/3/2 ,Fo2/4/2 
+Ag105         64       Disabled          Fo1/3/3 ,Fo1/3/4 ,Fo1/4/3 ,Fo1/4/4 
+                                         Fo2/3/3 ,Fo2/3/4 

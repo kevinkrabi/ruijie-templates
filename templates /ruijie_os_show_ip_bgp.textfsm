@@ -1,0 +1,33 @@
+Value Filldown STATUS ([bdhimrsSx*>])
+Value Filldown PATH_SELECTION ([bdhimrsSx*> ])
+Value Filldown ROUTE_SOURCE ([bdhimrsSx*> ])
+Value Filldown NETWORK (\S{0,18})
+Value Required NEXT_HOP (\S{0,19})
+Value Filldown METRIC (\S{0,6})
+Value LOCAL_PREF (\S{0,6})
+Value WEIGHT (\S{0,6})
+Value AS_PATH (.*?)
+Value ORIGIN ([ie\?])
+
+Start
+  # 检测到表头再开始建表
+  ^\s+Network\s+Next\s+Hop\s+Metric\s+LocPrf\s+Weight\s+Path -> Bgp_table
+
+Bgp_table
+  # 匹配前缀过长导致变成两行的情况，例如：
+  # *m  11.194.158.192/26
+  #                      192.168.1.6              0                       0 4200001092 i
+  ^${STATUS}${PATH_SELECTION}${ROUTE_SOURCE}\s{0,2}(?=${NETWORK}).{17,18}$$ -> Next
+  ^\s{20,25}(?=${NEXT_HOP}).{19}\s(?=\s{0,6}${METRIC}).{11}\s(?=\s{0,6}${LOCAL_PREF}).{11}\s(?=\s{0,6}${WEIGHT}).{6}\s*${AS_PATH}\s*${ORIGIN}$$ -> Record
+  #
+  #
+  # 用于匹配多个下一跳的场景，只有在首行有network，例如：
+  # *m  0.0.0.0/0        11.162.184.109           0                       0 65009 4200001092 65004 65100 31000 i
+  # *m                   11.162.184.77            0                       0 65009 4200001092 65004 65100 31000 i
+  # *>                   11.162.184.13            0                       0 65009 4200001092 65004 65100 31000 i
+  ^${STATUS}${PATH_SELECTION}${ROUTE_SOURCE}\s{0,2}\s{16}\s(?=${NEXT_HOP}).{19}\s(?=\s{0,6}${METRIC}).{11}\s(?=\s{0,6}${LOCAL_PREF}).{11}\s(?=\s{0,6}${WEIGHT}).{6}\s*${AS_PATH}\s*${ORIGIN}$$ -> Record
+  #
+  #
+  # 匹配正常行
+  ^${STATUS}${PATH_SELECTION}${ROUTE_SOURCE}\s{0,2}(?=${NETWORK}).{16}\s(?=${NEXT_HOP}).{19}\s(?=\s{0,6}${METRIC}).{11}\s(?=\s{0,6}${LOCAL_PREF}).{11}\s(?=\s{0,6}${WEIGHT}).{6}\s*${AS_PATH}\s*${ORIGIN}$$ -> Record
+

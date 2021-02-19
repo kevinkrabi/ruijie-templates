@@ -1,0 +1,18 @@
+Value Required VLAN_ID (\d+(\-\d+)?)
+Value NAME (\S+)
+Value STATUS (\S+)
+Value List PORTS (\w+\S+\d+)
+
+Start
+  ^\s+\d+ -> Continue.Record
+  ^\s+${VLAN_ID}\s+${NAME}\s+${STATUS}\s*$$
+  ^\s+${VLAN_ID}\s+${NAME}\s+${STATUS}\s+${PORTS},* -> Continue
+  ^\s+\S+\s+(?:\S+\s+){3}${PORTS},* -> Continue
+  ^\s+\S+\s+(?:\S+\s+){4}${PORTS},* -> Continue
+  ^\s+\S+\s+(?:\S+\s+){5}${PORTS},* -> Continue
+  ^\s{40,}${PORTS},* -> Continue
+  ^\s{40,}\S+,\s+${PORTS},* -> Continue
+  ^\s{40,}(?:\S+,\s+){2}${PORTS},* -> Continue
+  ^\s{40,}(?:\S+,\s+){3}${PORTS},* -> Continue
+
+

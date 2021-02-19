@@ -1,0 +1,9 @@
+Value Required ROUTE_SOURCE (\S+)
+Value NORMAL (\d+)
+Value ECMP (\d+)
+Value FRR (\d+)
+Value TOTAL (\d+)
+
+Start
+  ^\s+${ROUTE_SOURCE}\s+${NORMAL}\s+${ECMP}\s+${FRR}\s+${TOTAL} -> Record
+

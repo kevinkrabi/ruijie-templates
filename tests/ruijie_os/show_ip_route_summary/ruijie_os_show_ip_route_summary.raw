@@ -1,0 +1,18 @@
+
+Codes:  NORMAL - Normal route  ECMP - ECMP route  FRR - Fast-Reroute route
+
+  Memory: 5394696 bytes
+  Entries: 23253, based on route prefixes
+
+  Entries: 69295, based on route nexthops
+
+                 NORMAL     ECMP       FRR        TOTAL     
+       Connected 25         0          0          25        
+       Static    0          0          0          0         
+       RIP       0          0          0          0         
+       OSPF      0          0          0          0         
+       ISIS      0          0          0          0         
+       BGP       4          23023      0          23027     
+         EVPN    0          0          0          0         
+       ARPHOST   201        0          0          201       
+       TOTAL     230        23023      0          23253     

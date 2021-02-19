@@ -1,0 +1,10 @@
+DSW2#show isis neighbors 
+
+Area (null):
+System Id       Type  IP Address        State   Holdtime  Circuit            Interface                 
+Mancore-5.1     L2    11.205.103.17     Up      22        E                  HundredGigabitEthernet 1/1.503
+Mancore-5.1     L2    11.205.104.17     Up      28        F                  HundredGigabitEthernet 1/1.504
+Mancore-5.1     L2    11.205.103.21     Up      29        C                  HundredGigabitEthernet 2/1.503
+Mancore-5.1     L2    11.205.104.21     Up      24        D                  HundredGigabitEthernet 2/1.504
+Mancore-5.1     L2    11.205.103.25     Up      26        A                  HundredGigabitEthernet 3/1.503
+Mancore-5.1     L2    11.205.104.25     Up      26        B                  HundredGigabitEthernet 3/1.504

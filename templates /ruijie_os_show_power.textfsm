@@ -1,0 +1,25 @@
+Value POWER_ID (\d\S*)
+Value POWER_TYPE (\S+( \S+)*)
+Value SN (\S*)
+Value STATUS (\S+)
+
+Start
+  ^Name              Slot Status -> S62_65
+  ^Power-id Power-type           Status -> S69_57
+  ^power-id  power-type    supply\(W\) -> N18X
+
+S62_65
+  #适用于S6220H系列、S65系列
+  ^Name              Slot Power\(W\) -> EOF
+  ^${POWER_TYPE}\s+${POWER_ID}\s+${STATUS}\s+\S+\s+\S+\s+\S+\s+${SN} -> Record
+
+S69_57
+  #适用于S6910-3C、5750H系列
+  ^Power-id Power-type         Temperature -> EOF
+  ^Slot     Card-type -> EOF
+  ^${POWER_ID}\s+${POWER_TYPE}\s+${STATUS}\s+\S+\s+${SN} -> Record
+
+N18X
+  #适用于N18X系列
+  ^slot    card_type -> EOF
+  ^${POWER_ID}\s+${POWER_TYPE}\s+\S+\s+${STATUS} -> Record

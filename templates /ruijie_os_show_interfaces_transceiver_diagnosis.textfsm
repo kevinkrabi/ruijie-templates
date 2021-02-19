@@ -1,0 +1,32 @@
+Value INTERFACE (\w+\s+(\d+\/)+\S+)
+Value TRAN_STATUS (the transceiver is absent!|This module doesn\'t support DDM!)
+Value TEMPERATURE (\d+)
+Value TEMPERATURE_STATUS (OK|alarm|warning)
+Value VOLTAGE (\d+.\d+)
+Value VOLTAGE_STATUS (OK|alarm|warning)
+Value List BIAS (-?\d+.\d+|NA)
+Value List BIAS_STATUS (OK|alarm|warning)
+Value List TX_POWER (-?\d+.\d+|NA)
+Value List TX_POWER_STATUS (OK|alarm|warning)
+Value List RX_POWER (-?\d+.\d+|NA)
+Value List RX_POWER_STATUS (OK|alarm|warning)
+
+Start
+  ^======== -> Continue.Record
+  ^========Interface\s+${INTERFACE}========
+  #识别到没插入模块，直接读取下一行重新比较，status为空说明光模块有输出，否则记录提示信息
+  ^.*${TRAN_STATUS}
+  ^Temp(Celsius)\s+Voltage(V)\s+Bias(mA)\s+RX\s+power(dBm)\s+TX power(dBm)
+  #匹配如下信息：
+  #39(OK)          3.26(OK)        5.60(OK)[C1]        -0.39(OK)[C1/OMA]   0.78(OK)[C1]
+  #同时考虑到RX没有收到光衰的情况：
+  #32(OK)          3.27(OK)        5.30(OK)[C1]        NA                  0.59(OK)[C1]
+  #10G模块匹配如下信息：
+  #35(OK)          3.33(OK)        35.49(OK)           -4.26(OK)[AP]       -3.40(OK)
+  ^${TEMPERATURE}\(${TEMPERATURE_STATUS}\)\s+${VOLTAGE}\(${VOLTAGE_STATUS}\)\s+${BIAS}(\(${BIAS_STATUS}\)\S*)?\s+${RX_POWER}(\(${RX_POWER_STATUS}\)\S+)?\s+${TX_POWER}(\(${TX_POWER_STATUS}\)\S*)?
+  #MPO模块存在4个line，后续3个光衰值需要剔除temp和voltage字段匹配：
+  #23(OK)          3.34(OK)        6.84(OK)[C1]        -2.19(OK)[C1/AP]    -0.78(OK)[C1]
+  #                                6.97(OK)[C2]        -1.57(OK)[C2/AP]    -0.43(OK)[C2]
+  #                                6.84(OK)[C3]        -1.64(OK)[C3/AP]    -0.77(OK)[C3]
+  #                                6.84(OK)[C4]        -1.54(OK)[C4/AP]    -1.02(OK)[C4]
+  ^\s+${BIAS}(\(${BIAS_STATUS}\)\S+)?\s+${RX_POWER}(\(${RX_POWER_STATUS}\)\S+)?\s+${TX_POWER}(\(${TX_POWER_STATUS}\)\S*)?

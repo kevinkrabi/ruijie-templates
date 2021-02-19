@@ -1,0 +1,60 @@
+ESR1#show version 
+System description      : Ruijie High-density IPv6 100G Core Routing Switch(N18010-X) By Ruijie Networks
+System start time       : 2020-11-30 15:23:45
+System uptime           : 0:19:35:50
+System hardware version : 0.01
+System software version : N18000-X_RGOS 12.4(1)B0301P8
+System patch number     : NA
+System serial number    : G1MWA1M000063
+System boot version     : 1.0.13(Master) N/A(Slave)
+System rboot version    : 1.1.19
+Module information:
+  Slot M2 : M18000X-CM X
+    System uptime       : 0:19:35:51
+    Hardware version    : 0.01
+    Boot version        : 1.0.13(Master) N/A(Slave)
+    Rboot version       : 1.1.19
+    Software version    : N18000-X_RGOS 12.4(1)B0301P8
+    Serial number       : G1MWA1M000063
+  Slot 1 : M18000X-48CQ-CE
+    System uptime       : 0:19:35:48
+    Hardware version    : 1.13
+    Boot version        : 1.0.11(Master) 1.0.11(Slave)
+    Rboot version       : 1.1.19
+    Software version    : N18000-X_RGOS 12.4(1)B0301P8
+    Serial number       : G1NW41J000052
+  Slot 2 : M18000X-48CQ-CE
+    System uptime       : 0:19:35:48
+    Hardware version    : 1.13
+    Boot version        : 1.0.11(Master) N/A(Slave)
+    Rboot version       : 1.1.19
+    Software version    : N18000-X_RGOS 12.4(1)B0301P8
+    Serial number       : G1NW41J000051
+  Slot 8 : M18000X-48CQ-CE
+    System uptime       : 0:19:35:59
+    Hardware version    : 1.00
+    Boot version        : 1.0.11(Master) 1.0.11(Slave)
+    Rboot version       : 1.1.19
+    Software version    : N18000-X_RGOS 12.4(1)B0301P8
+    Serial number       : 1234567890086
+  Slot FE3 : M18010X-FE-E II
+    System uptime       : 0:19:36:03
+    Hardware version    : 1.13
+    Boot version        : N/A(Master) N/A(Slave)
+    Rboot version       : 1.1.19
+    Software version    : N18000-X_RGOS 12.4(1)B0301P8
+    Serial number       : G1NW41J000065
+  Slot FE6 : M18010X-FE-E II
+    System uptime       : 0:19:36:01
+    Hardware version    : 1.13
+    Boot version        : 1.0.12(Master) N/A(Slave)
+    Rboot version       : 1.1.19
+    Software version    : N18000-X_RGOS 12.4(1)B0301P8
+    Serial number       : G1NW41J000070
+  Slot M1 : M18000X-CM X
+    System uptime       : 0:00:28:54
+    Hardware version    : 0.01
+    Boot version        : N/A(Master) N/A(Slave)
+    Rboot version       : 1.1.19
+    Software version    : N18000-X_RGOS 12.4(1)B0301P8
+    Serial number       : G1MAA1M000056

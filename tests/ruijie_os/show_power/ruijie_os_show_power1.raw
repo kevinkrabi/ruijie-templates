@@ -1,0 +1,10 @@
+ASW8-B9P43S1#show power
+Name              Slot Status       Attribute Conexist Hardware Version Serial              Temperature Exception
+----------------- ---- ------------ --------- -------- ---------------- ------------------- ----------- --------------------
+RG-PA550I-F       1    disconnect   -F        yes      AC               M623V400FUACL       N/A         N/A
+RG-PA550I-F       2    ok           -F        yes      AC               M623V401JPACL       37          N/A
+                        Rated     Input      Input       Output     Output     Output 
+Name              Slot Power(W) Voltage(V) Current(mA) Voltage(V) Current(mA) Power(W)
+----------------- ---- -------- ---------- ----------- ---------- ----------- --------
+RG-PA550I-F       1    N/A      N/A        N/A         N/A        N/A         N/A     
+RG-PA550I-F       2    550      223        521         12         8500        103     

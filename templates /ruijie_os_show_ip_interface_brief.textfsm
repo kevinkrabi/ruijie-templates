@@ -1,0 +1,11 @@
+Value Required INTERFACE (\S+\s+\S+)
+Value IPADDR_PRI (\S+)
+Value List IPADDR_SEC (no address|\S+)
+Value STATUS (up|down|administratively down)
+Value PROTOCOL (up|down)
+
+Start
+  ^Interface\s+IP-Address(Pri)\s+IP-Address(Sec)\s+Status\s+Protocol
+  ^\S+\s+\S+ -> Continue.Record
+  ^${INTERFACE}\s+${IPADDR_PRI}\s+${IPADDR_SEC}\s+${STATUS}\s+${PROTOCOL}
+  ^\s+${IPADDR_SEC}

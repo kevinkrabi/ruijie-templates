@@ -1,0 +1,62 @@
+S6910-3C#show fan detail 
+Chassis-type: RG-S6910-3C
+Fan-id: 1    
+    Status:         ok
+    Mode:           normal
+    Fan-type:       M2EFAN I-F
+    Serial Number:  G1NW416001399                   
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      5468        133
+    2           ok      6299        133
+Fan-id: 2    
+    Status:         ok
+    Mode:           normal
+    Fan-type:       M2EFAN I-F
+    Serial Number:  G1NW416001357                   
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      5428        133
+    2           ok      6208        133
+Fan-id: 3    
+    Status:         ok
+    Mode:           normal
+    Fan-type:       M2EFAN I-F
+    Serial Number:  G1NW416001382                   
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      5514        133
+    2           ok      6278        133
+Fan-id: 4    
+    Status:         ok
+    Mode:           normal
+    Fan-type:       M2EFAN I-F
+    Serial Number:  G1NW416001095                   
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      6218        133
+    2           ok      5422        133
+Fan-id: 5    
+    Status:         ok
+    Mode:           normal
+    Fan-type:       M2EFAN I-F
+    Serial Number:  G1NW41600130B                   
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      5514        133
+    2           ok      6250        133
+Fan-id: 6    
+    Status:         ok
+    Mode:           normal
+    Fan-type:       M2EFAN I-F
+    Serial Number:  G1NW416001412                   
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      5430        133
+    2           ok      6147        133

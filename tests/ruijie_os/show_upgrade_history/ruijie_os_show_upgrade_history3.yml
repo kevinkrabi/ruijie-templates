@@ -1,0 +1,18 @@
+---
+parsed_sample:
+  - time: "2008-05-14 18:30:08"
+    package_type: "MAIN"
+    package_name: "RGOS12.x-x8-cmx-69-9.12_install.bin"
+    method: "LOCAL"
+  - time: "2008-05-14 18:32:24"
+    package_type: "MAIN"
+    package_name: "RGOS12.x-x8-cmx-69-9.12_install.bin"
+    method: "LOCAL"
+  - time: "2008-05-19 01:48:35"
+    package_type: "MAIN"
+    package_name: "12x_cmx_20190916.bin"
+    method: "LOCAL"
+  - time: "2008-05-19 03:14:51"
+    package_type: "MAIN"
+    package_name: "12x_cmx_20190916.bin"
+    method: "LOCAL"

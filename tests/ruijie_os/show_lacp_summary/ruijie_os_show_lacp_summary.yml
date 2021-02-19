@@ -1,0 +1,818 @@
+---
+parsed_sample:
+  - agg_port: "1"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/1"
+    interfaces_status:
+      - "bndl"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SA"
+    peer_priority:
+      - "32768"
+    peer_devid:
+      - "0074.9c0d.4ea7"
+  - agg_port: "2"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/2"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "3"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/3"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "4"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/4"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "5"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/5"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "6"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/6"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "7"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/7"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "8"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/8"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "9"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/9"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "10"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/10"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "11"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/11"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "12"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/12"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "13"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/13"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "14"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/14"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "15"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/15"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "16"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/16"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "17"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/17"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "18"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/18"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "19"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/19"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "20"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/20"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "21"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/21"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "22"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/22"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "23"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/23"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "24"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/24"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "25"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/25"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "26"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/26"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "27"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/27"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "28"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/28"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "29"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/29"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "30"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/30"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "31"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/31"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "32"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/32"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "33"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/33"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "34"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/34"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "35"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/35"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "36"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/36"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "37"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/37"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "38"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/38"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "39"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/39"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "40"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/40"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "41"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/41"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "42"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/42"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "43"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/43"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "44"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/44"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "45"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/45"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "46"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/46"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "47"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/47"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"
+  - agg_port: "48"
+    system_id: "0000.5e00.0103"
+    device_num: "2"
+    interfaces:
+      - "TF0/48"
+    interfaces_status:
+      - "down"
+    local_flags:
+      - "SA"
+    local_priority:
+      - "32768"
+    peer_flags:
+      - "SP"
+    peer_priority:
+      - "0"
+    peer_devid:
+      - "0000.0000.0000"

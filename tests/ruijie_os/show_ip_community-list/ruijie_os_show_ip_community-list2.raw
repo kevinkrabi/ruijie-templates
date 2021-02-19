@@ -1,0 +1,12 @@
+Community standard list 1
+    permit 1:1
+Community (expanded) access list 100
+    permit 0:100
+Community (expanded) access list 110
+    permit 2:110
+Named Community expanded list vrf1_ex
+    permit 111:111
+Named Community standard list vrf1_pri_com
+    permit 100:2
+    permit 9:9 10:10 100:1 111:1 222:2 333:3 444:4 555:5 666:6 777:7 888:8 no-export
+    permit 9:9 10:10 100:1 111:1 222:2 333:3 444:4 555:5 666:6 777:7 888:8 no-export no-advertise

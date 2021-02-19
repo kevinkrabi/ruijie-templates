@@ -1,0 +1,9 @@
+Value DEVICE_ID (\d+)
+Value SLOT_ID (\S+)
+Value PORT (\S+)
+Value CONFIG_MODULE (\S+( \S+)*)
+Value ONLINE_MODULE (\S+( \S+)*)
+Value SOFTWARE_STATUS (\S.*?)
+
+Start
+  ^\s+${DEVICE_ID}\s+${SLOT_ID}\s+${PORT}\s+${CONFIG_MODULE}\s+${ONLINE_MODULE}\s+${SOFTWARE_STATUS}\s*$$ -> Record

@@ -1,0 +1,59 @@
+ESR1#show fan detail 
+Chassis-type: N18010-X
+Fan-id: 1    
+    Fan-type:       M18010X-FAN
+    Serial Number:  G1L31LX000416                   
+    Status:         ok
+    Mode:           defined
+    Speed-level:    7
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      12000       255
+    2           ok      10650       255
+    3           ok      12000       255
+    4           ok      10650       255
+    5           ok      12000       255
+    6           ok      10650       255
+    7           ok      12000       255
+    8           ok      10650       255
+    9           ok      12000       255
+    10          ok      10650       255
+Fan-id: 2    
+    Fan-type:       M18010X-FAN
+    Serial Number:  G1L204W000192                   
+    Status:         ok
+    Mode:           defined
+    Speed-level:    7
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      12150       255
+    2           ok      10650       255
+    3           ok      12150       255
+    4           ok      10650       255
+    5           ok      12000       255
+    6           ok      10650       255
+    7           ok      12000       255
+    8           ok      10650       255
+    9           ok      12000       255
+    10          ok      10650       255
+Fan-id: 3    
+    Fan-type:       M18010X-FAN
+    Serial Number:  G1L713S000660                   
+    Status:         ok
+    Mode:           defined
+    Speed-level:    7
+
+    sub-fan-id  status  speed(rpm)  speed-level
+    ----------  ------  ----------  ----------
+    1           ok      12150       255
+    2           ok      10800       255
+    3           ok      12000       255
+    4           ok      10650       255
+    5           ok      12150       255
+    6           ok      10650       255
+    7           ok      12150       255
+    8           ok      10650       255
+    9           ok      12000       255
+    10          ok      10650       255

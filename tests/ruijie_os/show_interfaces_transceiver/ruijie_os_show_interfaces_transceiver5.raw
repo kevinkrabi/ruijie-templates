@@ -1,0 +1,665 @@
+
+========Interface TenGigabitEthernet 1/0/1========
+Transceiver Type    :  2.5G-Copper-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 2m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : C04401          
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 1/0/2========
+Interface TenGigabitEthernet 1/0/2 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/3========
+Interface TenGigabitEthernet 1/0/3 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/4========
+Interface TenGigabitEthernet 1/0/4 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/5========
+Interface TenGigabitEthernet 1/0/5 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/6========
+Interface TenGigabitEthernet 1/0/6 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/7========
+Interface TenGigabitEthernet 1/0/7 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/8========
+Interface TenGigabitEthernet 1/0/8 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/9========
+Transceiver Type    :  Unknown SFP module
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 1m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : CN1552SX102L0020
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 1/0/10========
+Interface TenGigabitEthernet 1/0/10 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/11========
+Interface TenGigabitEthernet 1/0/11 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/12========
+Interface TenGigabitEthernet 1/0/12 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/13========
+Interface TenGigabitEthernet 1/0/13 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/14========
+Interface TenGigabitEthernet 1/0/14 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/15========
+Interface TenGigabitEthernet 1/0/15 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/16========
+Interface TenGigabitEthernet 1/0/16 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/17========
+Interface TenGigabitEthernet 1/0/17 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/18========
+Interface TenGigabitEthernet 1/0/18 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/19========
+Interface TenGigabitEthernet 1/0/19 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/20========
+Interface TenGigabitEthernet 1/0/20 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/21========
+Interface TenGigabitEthernet 1/0/21 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/22========
+Interface TenGigabitEthernet 1/0/22 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/23========
+Interface TenGigabitEthernet 1/0/23 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/24========
+Interface TenGigabitEthernet 1/0/24 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/25========
+Transceiver Type    :  Unknown SFP module
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 1m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : CN1618SX102L0055
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 1/0/26========
+Interface TenGigabitEthernet 1/0/26 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/27========
+Interface TenGigabitEthernet 1/0/27 : the transceiver is absent!
+          
+========Interface TenGigabitEthernet 1/0/28========
+Interface TenGigabitEthernet 1/0/28 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/29========
+Interface TenGigabitEthernet 1/0/29 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/30========
+Interface TenGigabitEthernet 1/0/30 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/31========
+Interface TenGigabitEthernet 1/0/31 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/32========
+Interface TenGigabitEthernet 1/0/32 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/33========
+Transceiver Type    :  Unknown SFP module
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 1m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : CN1552SX102L0022
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 1/0/34========
+Interface TenGigabitEthernet 1/0/34 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/35========
+Interface TenGigabitEthernet 1/0/35 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/36========
+Interface TenGigabitEthernet 1/0/36 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/37========
+Transceiver Type    :  10G-Active-Cable-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 10m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1KQCA200093A   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+32(OK)          3.39(OK)        5.80(OK)            -2.02(OK)[OMA]      -1.00(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TenGigabitEthernet 1/0/38========
+Transceiver Type    :  10G-Active-Cable-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 10m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1KQCA2001033   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+35(OK)          3.35(OK)        5.80(OK)            -2.27(OK)[OMA]      -1.00(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TenGigabitEthernet 1/0/39========
+Interface TenGigabitEthernet 1/0/39 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/40========
+Interface TenGigabitEthernet 1/0/40 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/41========
+Interface TenGigabitEthernet 1/0/41 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/42========
+Interface TenGigabitEthernet 1/0/42 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/43========
+Interface TenGigabitEthernet 1/0/43 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/44========
+Interface TenGigabitEthernet 1/0/44 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/45========
+Interface TenGigabitEthernet 1/0/45 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/46========
+Interface TenGigabitEthernet 1/0/46 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/47========
+Interface TenGigabitEthernet 1/0/47 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 1/0/48========
+Transceiver Type    :  10G-Copper-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 15320648        
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 2/0/1========
+Transceiver Type    :  10G-Copper-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 17260350        
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 2/0/2========
+Interface TenGigabitEthernet 2/0/2 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/3========
+Interface TenGigabitEthernet 2/0/3 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/4========
+Interface TenGigabitEthernet 2/0/4 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/5========
+Interface TenGigabitEthernet 2/0/5 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/6========
+Interface TenGigabitEthernet 2/0/6 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/7========
+Interface TenGigabitEthernet 2/0/7 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/8========
+Interface TenGigabitEthernet 2/0/8 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/9========
+Transceiver Type    :  Unknown SFP module
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 1m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : CN1552SX102L0020
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 2/0/10========
+Interface TenGigabitEthernet 2/0/10 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/11========
+Interface TenGigabitEthernet 2/0/11 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/12========
+Interface TenGigabitEthernet 2/0/12 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/13========
+Interface TenGigabitEthernet 2/0/13 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/14========
+Interface TenGigabitEthernet 2/0/14 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/15========
+Interface TenGigabitEthernet 2/0/15 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/16========
+Interface TenGigabitEthernet 2/0/16 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/17========
+Interface TenGigabitEthernet 2/0/17 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/18========
+Interface TenGigabitEthernet 2/0/18 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/19========
+Interface TenGigabitEthernet 2/0/19 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/20========
+Interface TenGigabitEthernet 2/0/20 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/21========
+Interface TenGigabitEthernet 2/0/21 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/22========
+Interface TenGigabitEthernet 2/0/22 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/23========
+Transceiver Type    :  Unknown SFP module
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 1m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : CN1618SX102L0055
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface TenGigabitEthernet 2/0/24========
+Interface TenGigabitEthernet 2/0/24 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/25========
+Interface TenGigabitEthernet 2/0/25 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/26========
+Interface TenGigabitEthernet 2/0/26 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/27========
+Interface TenGigabitEthernet 2/0/27 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/28========
+Interface TenGigabitEthernet 2/0/28 : the transceiver is absent!
+          
+========Interface TenGigabitEthernet 2/0/29========
+Interface TenGigabitEthernet 2/0/29 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/30========
+Interface TenGigabitEthernet 2/0/30 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/31========
+Interface TenGigabitEthernet 2/0/31 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/32========
+Interface TenGigabitEthernet 2/0/32 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/33========
+Interface TenGigabitEthernet 2/0/33 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/34========
+Interface TenGigabitEthernet 2/0/34 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/35========
+Interface TenGigabitEthernet 2/0/35 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/36========
+Interface TenGigabitEthernet 2/0/36 : the transceiver is absent!
+          
+========Interface TenGigabitEthernet 2/0/37========
+Transceiver Type    :  10G-Active-Cable-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 10m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1KQCA2001012   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+39(OK)          3.35(OK)        5.80(OK)            -2.53(OK)[OMA]      -1.00(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TenGigabitEthernet 2/0/38========
+Transceiver Type    :  10G-Active-Cable-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 10m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1KQCA2001029   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+34(OK)          3.35(OK)        5.80(OK)            -4.85(OK)[OMA]      -1.00(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TenGigabitEthernet 2/0/39========
+Interface TenGigabitEthernet 2/0/39 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/40========
+Interface TenGigabitEthernet 2/0/40 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/41========
+Interface TenGigabitEthernet 2/0/41 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/42========
+Interface TenGigabitEthernet 2/0/42 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/43========
+Interface TenGigabitEthernet 2/0/43 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/44========
+Interface TenGigabitEthernet 2/0/44 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/45========
+Interface TenGigabitEthernet 2/0/45 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/46========
+Interface TenGigabitEthernet 2/0/46 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/47========
+Interface TenGigabitEthernet 2/0/47 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 2/0/48========
+Transceiver Type    :  10G-Copper-SFP
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 15320445        
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 1/0/49========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 28301611100161  
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 1/0/50========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 28301532900050  
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 1/0/51========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 283017103100012 
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 1/0/52========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 283017103100042 
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 1/0/53========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 283017070400206 
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 1/0/54========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 283017103100161 
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 2/0/49========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 28301611100161  
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 2/0/50========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 28301532900050  
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 2/0/51========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 283017103100087 
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 2/0/52========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 283017103100346 
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+
+========Interface FortyGigabitEthernet 2/0/53========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 283017103100029 
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!
+          
+========Interface FortyGigabitEthernet 2/0/54========
+Transceiver Type    :  40G-Copper-QSFP+
+Connector Type      :  No sparable connector
+Wavelength(nm)      :  N/A
+Wavelength tolerance(nm):  0
+Transfer Distance   : 
+    Cable
+        -- 3m
+Digital Diagnostic Monitoring  : NO
+Vendor Serial Number           : 28301611100154  
+
+Current diagnostic parameters:
+This module doesn't support DDM!
+
+Transceiver current alarm information:
+This module doesn't support getting alarm!

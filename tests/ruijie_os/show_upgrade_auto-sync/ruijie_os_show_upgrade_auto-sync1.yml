@@ -1,0 +1,6 @@
+---
+parsed_sample:
+  - policy: "coordinate"
+    package: "flash:S6500_RGOS11.0(5)B9P43S1_install.bin"
+    range: "vsu"
+    patch: ""

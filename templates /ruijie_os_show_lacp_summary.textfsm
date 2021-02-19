@@ -1,0 +1,24 @@
+Value Required AGG_PORT (\d+)
+Value SYSTEM_ID (\w+\.\w+\.\w+)
+Value DEVICE_NUM (\d+)
+Value List INTERFACES ([\w\.\/]+)
+Value List INTERFACES_STATUS ([a-zA-Z]+)
+Value List LOCAL_FLAGS (\w+)
+Value List LOCAL_PRIORITY (\d+)
+Value List PEER_FLAGS (\w+)
+Value List PEER_PRIORITY (\d+)
+Value List PEER_DEVID (\w+\.\w+\.\w+)
+
+
+Start
+  ^Aggregate\s+port\s+${AGG_PORT} -> Aggregate
+
+  
+Aggregate
+  ^Aggregate\s+port -> Continue.Record
+  ^Aggregate\s+port\s+${AGG_PORT}
+  ^System\s+Id:\s+${SYSTEM_ID}\s+Device\s+num\s+:\s+${DEVICE_NUM}
+  ^${INTERFACES}\s+${LOCAL_FLAGS}\s+${INTERFACES_STATUS}\s+${LOCAL_PRIORITY}\s+
+  ^[\w\.\/]+\s+${PEER_FLAGS}\s+${PEER_PRIORITY}\s+${PEER_DEVID}\s+
+
+

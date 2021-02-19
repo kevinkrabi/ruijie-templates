@@ -1,0 +1,3 @@
+auto-sync range      : vsu
+auto-sync policy     : compatible 
+auto-sync package    : flash:upgrade/poap.image.bin 

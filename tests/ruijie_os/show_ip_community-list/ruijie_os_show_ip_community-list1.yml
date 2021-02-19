@@ -1,0 +1,198 @@
+---
+parsed_sample:
+  - community: ""
+    name: "AAA-Idc-Private-Routing-Local"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+      - "64999"
+    tag:
+      - "8001"
+      - "30117"
+      - "41000"
+    action: "permit"
+  - community: ""
+    name: "AAA-Idc-Public-Routing-Local"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+      - "64999"
+    tag:
+      - "8000"
+      - "10117"
+      - "21000"
+    action: "permit"
+  - community: ""
+    name: "AAA-Man-Private-Routing-Local"
+    type: "standard"
+    as:
+      - "64996"
+      - "64999"
+      - "64999"
+    tag:
+      - "30199"
+      - "30117"
+      - "41000"
+    action: "permit"
+  - community: ""
+    name: "BBB-Idc-Private-Routing-Local"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+      - "64999"
+    tag:
+      - "8001"
+      - "30118"
+      - "42000"
+    action: "permit"
+  - community: ""
+    name: "BBB-Idc-Public-Routing-Local"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+      - "64999"
+    tag:
+      - "8000"
+      - "10118"
+      - "22000"
+    action: "permit"
+  - community: ""
+    name: "BBB-Man-Private-Routing-Local"
+    type: "standard"
+    as:
+      - "0"
+      - "64999"
+      - "64999"
+    tag:
+      - "60199"
+      - "30118"
+      - "42000"
+    action: "permit"
+  - community: ""
+    name: "BBB-Man-Private-Routing-Local"
+    type: "standard"
+    as:
+      - "64996"
+      - "64999"
+      - "64999"
+    tag:
+      - "30199"
+      - "30118"
+      - "42000"
+    action: "permit"
+  - community: ""
+    name: "CCC-Idc-Private-Routing-Local"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+      - "64999"
+    tag:
+      - "8001"
+      - "30146"
+      - "43000"
+    action: "permit"
+  - community: ""
+    name: "CCC-Idc-Public-Routing-Local"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+      - "64999"
+    tag:
+      - "8000"
+      - "10146"
+      - "23000"
+    action: "permit"
+  - community: ""
+    name: "CCC-Man-Private-Routing-Local"
+    type: "standard"
+    as:
+      - "64996"
+      - "64999"
+      - "64999"
+    tag:
+      - "30199"
+      - "30146"
+      - "43000"
+    action: "permit"
+  - community: ""
+    name: "DDD-Private-Routing"
+    type: "standard"
+    as:
+      - "64999"
+    tag:
+      - "8001"
+    action: "permit"
+  - community: ""
+    name: "DDD-Public-Routing"
+    type: "standard"
+    as:
+      - "64999"
+    tag:
+      - "8000"
+    action: "permit"
+  - community: ""
+    name: "EEE-Private-Vip"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+    tag:
+      - "8020"
+      - "30199"
+    action: "permit"
+  - community: ""
+    name: "EEE-Public-Vip"
+    type: "standard"
+    as:
+      - "64999"
+      - "64999"
+    tag:
+      - "8020"
+      - "10199"
+    action: "permit"
+  - community: ""
+    name: "vb_com"
+    type: "standard"
+    as:
+      - "100"
+    tag:
+      - "1"
+    action: "permit"
+  - community: ""
+    name: "vrf1_pri_com"
+    type: "standard"
+    as:
+      - "100"
+    tag:
+      - "2"
+    action: "permit"
+  - community: ""
+    name: "vrf1_pub_com"
+    type: "standard"
+    as:
+      - "100"
+    tag:
+      - "1"
+    action: "permit"
+  - community: ""
+    name: "vrf2_pri_com"
+    type: "standard"
+    as:
+      - "200"
+    tag:
+      - "2"
+    action: "permit"
+  - community: ""
+    name: "vrf2_pub_com"
+    type: "standard"
+    as:
+      - "200"
+    tag:
+      - "1"
+    action: "permit"

@@ -1,0 +1,33 @@
+
+System Id:32768, 300d.9e7b.7025
+
+Flags:  S - Device is requesting Slow LACPDUs   F - Device is requesting Fast LACPDUs.
+A - Device is in active mode.        P - Device is in passive mode.
+
+Aggregate port 105:
+
+Local information:
+                                     LACP port       Oper    Port    Port
+Port           Flags     State       Priority        Key     Number  State
+---------------------------------------------------------------------------
+Fo1/3/3        SA        susp        32768           0x69    0x27    0x45
+Fo1/3/4        SA        bndl        32768           0x69    0x28    0x3d
+Fo1/4/3        SA        susp        32768           0x69    0x4b    0x45
+Fo1/4/4        SA        bndl        32768           0x69    0x4c    0x3d
+Fo2/3/3        SA        susp        32768           0x69    0x93    0x45
+Fo2/3/4        SA        bndl        32768           0x69    0x94    0x3d
+Fo2/4/3        SA        susp        32768           0x69    0xb7    0x45
+Fo2/4/4        SA        bndl        32768           0x69    0xb8    0x3d
+
+Partner information:
+                         LACP port                  Oper    Port     Port
+Port           Flags     Priority      Dev ID       Key     Number   State
+--------------------------------------------------------------------------
+Fo1/3/3        SP        0         0000.0000.0000   0x0     0x0      0x0
+Fo1/3/4        SA        32768     0024.acc0.176d   0x41    0x100    0x3d
+Fo1/4/3        SP        0         0000.0000.0000   0x0     0x0      0x0
+Fo1/4/4        SA        32768     0024.acc0.176d   0x41    0x200    0x3d
+Fo2/3/3        SP        0         0000.0000.0000   0x0     0x0      0x0
+Fo2/3/4        SA        32768     0024.acc0.176d   0x41    0x300    0x3d
+Fo2/4/3        SP        0         0000.0000.0000   0x0     0x0      0x0
+Fo2/4/4        SA        32768     0024.acc0.176d   0x41    0x400    0x3d

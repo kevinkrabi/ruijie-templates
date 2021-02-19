@@ -1,0 +1,90 @@
+5750-VSU
+Device 1
+    Location:                    Chassis 1
+    Device name:                 S5750-48GT4XS-HP-H
+    Device Serial Number:        G1N317S001655
+    Hardware Version:            1.12
+    Mac Address:                 80.05.88.45.c5.d0
+
+Device 2
+    Location:                    Slot-1/0
+    Device name:                 S5750-48GT4XS-HP-H
+    Device Serial Number:        G1N317S001655
+    Hardware Version:            1.12
+    Software Version:            S5700H_RGOS 11.4(1)B42S1, Release(05192509)
+    Mac Address:                 80.05.88.45.c5.ce
+
+Device 3
+    Location:                    Power 1/1
+    Device name:                 RG-M5000E-AC500P
+    Device Serial Number:        A11670419060626
+    Hardware Version:            A
+
+Device 4
+    Location:                    Power 1/2
+    Device name:                 RG-M5000E-AC500P
+    Device Serial Number:        A11670419060092
+    Hardware Version:            A
+
+Device 5
+    Location:                    FAN 1/1
+    Device name:                 RG_FAN
+    Device Serial Number:        N/A
+    Hardware Version:            N/A
+
+Device 6
+    Location:                    FAN 1/2
+    Device name:                 RG_FAN
+    Device Serial Number:        N/A
+    Hardware Version:            N/A
+
+Device 7
+    Location:                    FAN 1/3
+    Device name:                 RG_FAN
+    Device Serial Number:        N/A
+    Hardware Version:            N/A
+
+Device 8
+    Location:                    Chassis 2
+    Device name:                 S5750-48GT4XS-HP-H
+    Device Serial Number:        G1N317S002432
+    Hardware Version:            1.12
+    Mac Address:                 80.05.88.45.c4.6b
+
+Device 9
+    Location:                    Slot-2/0
+    Device name:                 S5750-48GT4XS-HP-H
+    Device Serial Number:        G1N317S002432
+    Hardware Version:            1.12
+    Software Version:            S5700H_RGOS 11.4(1)B42S1, Release(05192509)
+    Mac Address:                 80.05.88.45.c4.69
+
+Device 10
+    Location:                    Power 2/1
+    Device name:                 RG-M5000E-AC500P
+    Device Serial Number:        A11670219050449
+    Hardware Version:            A
+
+Device 11
+    Location:                    Power 2/2
+    Device name:                 RG-M5000E-AC500P
+    Device Serial Number:        A11670219051910
+    Hardware Version:            A
+
+Device 12
+    Location:                    FAN 2/1
+    Device name:                 RG_FAN
+    Device Serial Number:        N/A
+    Hardware Version:            N/A
+
+Device 13
+    Location:                    FAN 2/2
+    Device name:                 RG_FAN
+    Device Serial Number:        N/A
+    Hardware Version:            N/A
+
+Device 14
+    Location:                    FAN 2/3
+    Device name:                 RG_FAN
+    Device Serial Number:        N/A
+    Hardware Version:            N/A

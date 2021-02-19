@@ -1,0 +1,6 @@
+---
+parsed_sample:
+  - policy: "coordinate"
+    package: "flash:upgrade/S6910_RGOS12.4(1)B0201_install.bin"
+    range: "vsu"
+    patch: ""

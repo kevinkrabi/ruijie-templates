@@ -1,0 +1,53 @@
+---
+parsed_sample:
+  - protocols: "ipv6"
+    interfaces:
+      - "<none>"
+    name: "VPN1"
+    default_rd: "<not set>"
+  - protocols: "ipv4,ipv6"
+    interfaces:
+      - "<none>"
+    name: "VPN2"
+    default_rd: "<not set>"
+  - protocols: "<not set>"
+    interfaces:
+      - "<none>"
+    name: "VPN3"
+    default_rd: "<not set>"
+  - protocols: "ipv4"
+    interfaces:
+      - "<none>"
+    name: "test"
+    default_rd: "<not set>"
+  - protocols: "ipv4,ipv6"
+    interfaces:
+      - "VLAN 1000"
+      - "VLAN 1001"
+      - "VLAN 1002"
+      - "VLAN 1003"
+      - "VLAN 1004"
+      - "VLAN 1005"
+      - "Loopback 1"
+    name: "bj"
+    default_rd: "9:9"
+  - protocols: "ipv4,ipv6"
+    interfaces:
+      - "HundredGigabitEthernet 1/1.504"
+      - "HundredGigabitEthernet 1/2.504"
+      - "HundredGigabitEthernet 1/3.504"
+      - "HundredGigabitEthernet 1/5.504"
+      - "HundredGigabitEthernet 1/6.504"
+      - "HundredGigabitEthernet 1/7.504"
+    name: "VRF1-private"
+    default_rd: "100:2"
+  - protocols: "ipv4,ipv6"
+    interfaces:
+      - "HundredGigabitEthernet 1/24"
+      - "HundredGigabitEthernet 2/24"
+      - "HundredGigabitEthernet 5/4"
+      - "HundredGigabitEthernet 6/1"
+      - "HundredGigabitEthernet 6/4"
+      - "HundredGigabitEthernet 6/7"
+    name: "VRF1-public"
+    default_rd: "100:1"

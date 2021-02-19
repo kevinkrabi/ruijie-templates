@@ -1,0 +1,20 @@
+Value GROUP (\d+)
+Value STATE (\w+)
+Value VIRTUAL_IP (\S+)
+Value VIRTUAL_MAC (\S+)
+Value HELLO_TIME (\d+)
+Value PREEMPTION (\w+)
+Value PRIORITY (\d+)
+Value MASTER_ROUTER (\d+\.\d+\.\d+\.\d+|unknown)
+Value MASTER_ROUTER_PRIORITY (\d+|unknown)
+
+Start
+  ^VLAN -> Continue.Record
+  ^.*Group\s+${GROUP}
+  ^.*State\s+is\s+${STATE}
+  ^.*Virtual\s+IP\s+address\s+is\s+${VIRTUAL_IP}
+  ^.*Virtual\s+MAC\s+address\s+is\s+${VIRTUAL_MAC}
+  ^.*Advertisement\s+interval\s+is\s+${HELLO_TIME}\s+sec
+  ^.*Preemption\s+is\s+${PREEMPTION}
+  ^.*Priority\s+is\s+${PRIORITY}
+  ^.*Master\s+Router\s+is\s+${MASTER_ROUTER}.+?priority\s+is\s+${MASTER_ROUTER_PRIORITY}

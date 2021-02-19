@@ -1,0 +1,91 @@
+---
+parsed_sample:
+  - match_clauses:
+      - "community vrf1_pri_com"
+    name: "rpECORE2MC-Aliyun"
+    action: "permit"
+    seq: "10"
+    set_clauses: []
+  - match_clauses: []
+    name: "rpECORE2MC-Aliyun"
+    action: "deny"
+    seq: "100"
+    set_clauses: []
+  - match_clauses:
+      - "community vrf2_pri_com"
+    name: "rpECORE2MC-Alipay"
+    action: "permit"
+    seq: "10"
+    set_clauses: []
+  - match_clauses: []
+    name: "rpECORE2MC-Alipay"
+    action: "deny"
+    seq: "100"
+    set_clauses: []
+  - match_clauses:
+      - "community vrf2_pub_com"
+    name: "rpECORE2MC-Alipay-public"
+    action: "permit"
+    seq: "10"
+    set_clauses: []
+  - match_clauses: []
+    name: "rpECORE2MC-Alipay-public"
+    action: "deny"
+    seq: "100"
+    set_clauses: []
+  - match_clauses:
+      - "ip address prefix-list pri_agg"
+    name: "rpESR2ECORE"
+    action: "deny"
+    seq: "10"
+    set_clauses: []
+  - match_clauses:
+      - "ip address prefix-list pri_route"
+    name: "rpESR2ECORE"
+    action: "permit"
+    seq: "20"
+    set_clauses:
+      - "ip next-hop 10.99.2.15"
+  - match_clauses:
+      - "ip address prefix-list pub_route"
+    name: "rpESR2ECORE"
+    action: "permit"
+    seq: "30"
+    set_clauses:
+      - "ip next-hop 10.99.2.15"
+  - match_clauses: []
+    name: "rpESR2ECORE"
+    action: "deny"
+    seq: "100"
+    set_clauses: []
+  - match_clauses:
+      - "ipv6 address prefix-list pri_agg_v6"
+    name: "rpESR2ECORE_v6"
+    action: "deny"
+    seq: "10"
+    set_clauses: []
+  - match_clauses:
+      - "ipv6 address prefix-list pri_route_v6"
+    name: "rpESR2ECORE_v6"
+    action: "permit"
+    seq: "20"
+    set_clauses:
+      - "ipv6 next-hop 10:1::99:2:f"
+  - match_clauses:
+      - "ipv6 address prefix-list pub_route_v6"
+    name: "rpESR2ECORE_v6"
+    action: "permit"
+    seq: "30"
+    set_clauses:
+      - "ipv6 next-hop 10:1::99:2:f"
+  - match_clauses: []
+    name: "rpESR2ECORE_v6"
+    action: "deny"
+    seq: "100"
+    set_clauses: []
+  - match_clauses: []
+    name: "rpMC2ECORE"
+    action: "permit"
+    seq: "10"
+    set_clauses:
+      - "local-preference 10"

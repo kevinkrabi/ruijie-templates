@@ -1,0 +1,121 @@
+
+For address family: IPv4 Unicast
+BGP neighbor is 50.1.0.2, remote AS 65021, local AS 65001, external link
+ Using Cross device PIC features
+ Member of peer-group PT382_ASW for session parameters
+  BGP version 4, remote router ID 5.1.1.1
+  BGP state = Established, up for 06:21:27
+  Last read 06:21:24, hold time is 30, keepalive interval is 10 seconds
+  Configured hold time is 30, keepalive interval is 10 seconds
+  Neighbor capabilities:
+    Route refresh: advertised and received (old and new)
+    Four-octets ASN Capability: advertised and received
+    Address family IPv4 Unicast: advertised and received
+    Graceful Restart Capability: advertised
+  Received 2638 messages, 0 notifications, 0 in queue
+    open message:1 update message:6 keepalive message:2631
+    refresh message:0 dynamic cap:0 notifications:0
+  Sent 2296 messages, 0 notifications, 0 in queue
+    open message:1 update message:6 keepalive message:2289
+    refresh message:0 dynamic cap:0 notifications:0
+  Route refresh request: received 0, sent 0
+  Minimum time between advertisement runs is 0 seconds
+  Minimum time between as origination advertisement runs is 1 seconds
+ For address family: IPv4 Unicast
+  BGP table version 649, neighbor version 649
+  Index 1, Offset 0, Mask 0x2
+  PT382_ASW peer-group member
+  84 update-group member
+  Community attribute sent to this neighbor (standard)
+  13 accepted prefixes
+  1014 announced prefixes in update-group 84
+
+ Connections established 7; dropped 6
+Local host: 50.1.0.1, Local port: 179
+Foreign host: 50.1.0.2, Foreign port: 43817
+Sock_fd: 211
+Nexthop: 50.1.0.1
+Last Reset: 06:26:49, due to BGP Notification received
+Notification Error Message: (Cease/Other Configuration Change.)
+
+BGP neighbor is 50.2.0.2, remote AS 65021, local AS 65001, external link
+ Using Cross device PIC features
+ Member of peer-group PT382_ASW for session parameters
+  BGP version 4, remote router ID 5.2.1.1
+  BGP state = Established, up for 06:28:41
+  Last read 05:58:44, hold time is 30, keepalive interval is 10 seconds
+  Configured hold time is 30, keepalive interval is 10 seconds
+  Neighbor capabilities:
+    Route refresh: advertised and received (old and new)
+    Four-octets ASN Capability: advertised and received
+    Address family IPv4 Unicast: advertised and received
+    Graceful Restart Capability: advertised
+  Received 2690 messages, 0 notifications, 0 in queue
+    open message:1 update message:6 keepalive message:2683
+    refresh message:0 dynamic cap:0 notifications:0
+  Sent 2342 messages, 0 notifications, 0 in queue
+    open message:1 update message:10 keepalive message:2331
+    refresh message:0 dynamic cap:0 notifications:0
+  Route refresh request: received 0, sent 0
+  Minimum time between advertisement runs is 0 seconds
+  Minimum time between as origination advertisement runs is 1 seconds
+ For address family: IPv4 Unicast
+  BGP table version 649, neighbor version 649
+  Index 2, Offset 0, Mask 0x4
+  PT382_ASW peer-group member
+  84 update-group member
+  Community attribute sent to this neighbor (standard)
+  13 accepted prefixes
+  1014 announced prefixes in update-group 84
+
+ Connections established 122; dropped 121
+Local host: 50.2.0.1, Local port: 179
+Foreign host: 50.2.0.2, Foreign port: 41055
+Sock_fd: 237
+Nexthop: 50.2.0.1
+Last Reset: 06:34:04, due to BGP Notification received
+Notification Error Message: (Cease/Other Configuration Change.)
+
+BGP neighbor is 50.11.0.2, remote AS 2001, local AS 65001, external link
+ Member of peer-group PT382_FUCE for session parameters
+  BGP version 4, remote router ID 5.10.1.1
+  BGP state = Established, up for 1d04h13m
+  Last read 02:11:09, hold time is 30, keepalive interval is 10 seconds
+  Configured hold time is 30, keepalive interval is 10 seconds
+  Neighbor capabilities:
+    Route refresh: advertised and received (old and new)
+    Four-octets ASN Capability: advertised and received
+    Address family IPv4 Unicast: advertised and received
+    Graceful Restart Capability: advertised and received
+      Remote Restart timer is 120 seconds
+      Address families preserved by peer:
+        IPv4 Unicast (was not preserved)
+        IPv6 Unicast (was not preserved)
+  Received 11713 messages, 0 notifications, 0 in queue
+    open message:1 update message:23 keepalive message:11689
+    refresh message:0 dynamic cap:0 notifications:0
+  Sent 10175 messages, 0 notifications, 0 in queue
+    open message:1 update message:22 keepalive message:10152
+    refresh message:0 dynamic cap:0 notifications:0
+  Route refresh request: received 0, sent 0
+  Minimum time between advertisement runs is 0 seconds
+  Minimum time between as origination advertisement runs is 1 seconds
+ For address family: IPv4 Unicast
+  BGP table version 649, neighbor version 649
+  Index 0, Offset 0, Mask 0x1
+  PT382_FUCE peer-group member
+  85 update-group member
+  Community attribute sent to this neighbor (standard)
+  1000 accepted prefixes
+  1014 announced prefixes in update-group 85
+
+ Connections established 5; dropped 4
+ Graceful-restart Status:
+  Remote restart-time is 120 sec
+
+Local host: 50.11.0.1, Local port: 179
+Foreign host: 50.11.0.2, Foreign port: 56170
+Sock_fd: 234
+Nexthop: 50.11.0.1
+Last Reset: 1d04h15m, due to BGP Notification received
+Notification Error Message: (Cease/Other Configuration Change.)

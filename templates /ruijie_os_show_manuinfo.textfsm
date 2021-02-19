@@ -1,0 +1,17 @@
+Value DEVICE_ID (\d+)
+Value LOCATION (\S.*?)
+Value DEVICE_NAME (\S.*?)
+Value SN (\S.*?)
+Value HARDWARE_VERSION (\S.*?)
+Value SOFTWARE_VERSION (\S.*?)
+Value MAC_ADDR (\S.*?)
+
+Start
+  ^Device -> Continue.Record
+  ^Device\s+${DEVICE_ID}
+  ^\s+Location:\s+${LOCATION}\s*$$
+  ^\s+Device name:\s+${DEVICE_NAME}\s*$$
+  ^\s+Device Serial Number:\s+${SN}\s*$$
+  ^\s+Hardware Version:\s+${HARDWARE_VERSION}\s*$$
+  ^\s+Software Version:\s+${SOFTWARE_VERSION}\s*$$
+  ^\s+Mac Address:\s+${MAC_ADDR}\s*$$

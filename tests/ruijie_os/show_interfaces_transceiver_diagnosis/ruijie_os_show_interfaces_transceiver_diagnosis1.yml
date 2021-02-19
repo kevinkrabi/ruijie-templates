@@ -1,0 +1,3188 @@
+---
+parsed_sample:
+  - interface: "FortyGigabitEthernet 5/1"
+    tran_status: ""
+    temperature: "23"
+    temperature_status: "OK"
+    voltage: "3.34"
+    voltage_status: "OK"
+    bias:
+      - "6.84"
+      - "6.97"
+      - "6.84"
+      - "6.84"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "-0.78"
+      - "-0.43"
+      - "-0.77"
+      - "-1.02"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-2.19"
+      - "-1.57"
+      - "-1.64"
+      - "-1.54"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "FortyGigabitEthernet 5/2"
+    tran_status: ""
+    temperature: "23"
+    temperature_status: "OK"
+    voltage: "3.34"
+    voltage_status: "OK"
+    bias:
+      - "6.78"
+      - "6.91"
+      - "6.84"
+      - "6.78"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "-2.01"
+      - "-1.47"
+      - "-0.90"
+      - "-1.88"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-2.32"
+      - "-1.99"
+      - "-1.20"
+      - "-1.98"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "FortyGigabitEthernet 5/3"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/4"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/5"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/6"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/7"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/8"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/9"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/10"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/11"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/12"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/13"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/14"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/15"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/16"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/17"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/18"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/19"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/20"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/21"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/22"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/23"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/24"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/25"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/26"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/27"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/28"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/29"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/30"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/31"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/32"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/33"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/34"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/35"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 5/36"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/1"
+    tran_status: ""
+    temperature: "23"
+    temperature_status: "OK"
+    voltage: "3.32"
+    voltage_status: "OK"
+    bias:
+      - "6.65"
+      - "6.84"
+      - "6.72"
+      - "6.78"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "-1.73"
+      - "-1.60"
+      - "-1.98"
+      - "-1.91"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-1.26"
+      - "-1.60"
+      - "-0.38"
+      - "-0.62"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "FortyGigabitEthernet 6/2"
+    tran_status: ""
+    temperature: "23"
+    temperature_status: "OK"
+    voltage: "3.32"
+    voltage_status: "OK"
+    bias:
+      - "6.72"
+      - "6.84"
+      - "6.91"
+      - "6.91"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "-1.59"
+      - "-1.12"
+      - "-0.51"
+      - "-1.40"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-1.95"
+      - "-2.40"
+      - "-1.05"
+      - "-1.93"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "FortyGigabitEthernet 6/3"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/4"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/5"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/6"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/7"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/8"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/9"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/10"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/11"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/12"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/13"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/14"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/15"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/16"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/17"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/18"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/19"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/20"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/21"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/22"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/23"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/24"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/25"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/26"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/27"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/28"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/29"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/30"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/31"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/32"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/33"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/34"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/35"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "FortyGigabitEthernet 6/36"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/1"
+    tran_status: ""
+    temperature: "47"
+    temperature_status: "OK"
+    voltage: "3.29"
+    voltage_status: "OK"
+    bias:
+      - "43.64"
+      - "44.09"
+      - "44.27"
+      - "44.18"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.12"
+      - "1.19"
+      - "1.04"
+      - "1.05"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.66"
+      - "0.55"
+      - "0.82"
+      - "0.89"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/2"
+    tran_status: ""
+    temperature: "49"
+    temperature_status: "OK"
+    voltage: "3.28"
+    voltage_status: "OK"
+    bias:
+      - "46.46"
+      - "46.65"
+      - "42.31"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.54"
+      - "0.77"
+      - "1.23"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.09"
+      - "1.10"
+      - "1.05"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/3"
+    tran_status: ""
+    temperature: "50"
+    temperature_status: "OK"
+    voltage: "3.28"
+    voltage_status: "OK"
+    bias:
+      - "47.07"
+      - "44.25"
+      - "42.13"
+      - "44.81"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.39"
+      - "1.10"
+      - "1.41"
+      - "1.06"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.45"
+      - "1.73"
+      - "1.12"
+      - "1.12"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/4"
+    tran_status: ""
+    temperature: "51"
+    temperature_status: "OK"
+    voltage: "3.28"
+    voltage_status: "OK"
+    bias:
+      - "42.73"
+      - "46.29"
+      - "42.71"
+      - "47.85"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.46"
+      - "1.45"
+      - "1.48"
+      - "0.81"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.49"
+      - "0.75"
+      - "1.43"
+      - "1.84"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/5"
+    tran_status: ""
+    temperature: "48"
+    temperature_status: "OK"
+    voltage: "3.29"
+    voltage_status: "OK"
+    bias:
+      - "46.81"
+      - "42.34"
+      - "46.66"
+      - "43.68"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.36"
+      - "0.62"
+      - "0.99"
+      - "0.75"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.98"
+      - "0.89"
+      - "2.31"
+      - "1.76"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/6"
+    tran_status: ""
+    temperature: "52"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "43.93"
+      - "44.40"
+      - "47.57"
+      - "45.76"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.70"
+      - "1.09"
+      - "0.69"
+      - "1.08"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-0.87"
+      - "0.50"
+      - "0.84"
+      - "0.92"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/7"
+    tran_status: ""
+    temperature: "49"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "46.81"
+      - "44.17"
+      - "45.14"
+      - "46.55"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.97"
+      - "0.97"
+      - "1.13"
+      - "1.14"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.39"
+      - "-1.12"
+      - "-0.28"
+      - "1.74"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/8"
+    tran_status: ""
+    temperature: "52"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "43.86"
+      - "47.65"
+      - "44.62"
+      - "46.74"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.11"
+      - "1.01"
+      - "0.76"
+      - "1.30"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.00"
+      - "1.29"
+      - "1.01"
+      - "1.75"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/9"
+    tran_status: ""
+    temperature: "50"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "47.19"
+      - "45.51"
+      - "47.24"
+      - "47.01"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.44"
+      - "0.77"
+      - "0.91"
+      - "0.78"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.91"
+      - "1.09"
+      - "0.96"
+      - "0.96"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/10"
+    tran_status: ""
+    temperature: "50"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "45.37"
+      - "47.89"
+      - "40.38"
+      - "40.00"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.28"
+      - "0.90"
+      - "1.61"
+      - "1.65"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-2.02"
+      - "-1.31"
+      - "-0.20"
+      - "-0.02"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/11"
+    tran_status: ""
+    temperature: "48"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "42.81"
+      - "46.84"
+      - "46.49"
+      - "43.98"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.35"
+      - "0.82"
+      - "0.52"
+      - "1.08"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.81"
+      - "1.61"
+      - "1.30"
+      - "2.12"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/12"
+    tran_status: ""
+    temperature: "52"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "47.77"
+      - "46.13"
+      - "47.93"
+      - "44.37"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "-0.12"
+      - "0.93"
+      - "1.12"
+      - "1.09"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.62"
+      - "1.02"
+      - "0.81"
+      - "1.17"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/13"
+    tran_status: ""
+    temperature: "51"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "47.27"
+      - "46.56"
+      - "45.85"
+      - "47.20"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.85"
+      - "1.21"
+      - "1.21"
+      - "1.30"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-0.45"
+      - "0.06"
+      - "1.43"
+      - "0.80"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/14"
+    tran_status: ""
+    temperature: "54"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "48.56"
+      - "48.91"
+      - "48.56"
+      - "48.56"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.00"
+      - "-0.14"
+      - "-0.30"
+      - "-1.08"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.12"
+      - "1.08"
+      - "1.36"
+      - "0.24"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/15"
+    tran_status: ""
+    temperature: "51"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "47.66"
+      - "47.35"
+      - "47.65"
+      - "47.59"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.52"
+      - "0.04"
+      - "-0.04"
+      - "0.83"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.40"
+      - "1.25"
+      - "1.38"
+      - "0.07"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/16"
+    tran_status: ""
+    temperature: "55"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "49.16"
+      - "48.03"
+      - "47.16"
+      - "49.09"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.28"
+      - "0.76"
+      - "1.44"
+      - "0.11"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-0.00"
+      - "0.96"
+      - "1.24"
+      - "0.97"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/17"
+    tran_status: ""
+    temperature: "50"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "46.33"
+      - "41.15"
+      - "43.57"
+      - "43.45"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.61"
+      - "1.32"
+      - "1.31"
+      - "1.36"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.26"
+      - "0.88"
+      - "0.79"
+      - "0.73"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/18"
+    tran_status: ""
+    temperature: "53"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "48.47"
+      - "46.80"
+      - "42.68"
+      - "47.59"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.23"
+      - "1.21"
+      - "0.85"
+      - "1.28"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.66"
+      - "1.70"
+      - "1.38"
+      - "0.48"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/19"
+    tran_status: ""
+    temperature: "50"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "47.08"
+      - "47.20"
+      - "47.30"
+      - "47.35"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.12"
+      - "-0.38"
+      - "0.52"
+      - "1.18"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.08"
+      - "0.96"
+      - "0.54"
+      - "0.55"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/20"
+    tran_status: ""
+    temperature: "52"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "47.93"
+      - "48.08"
+      - "41.91"
+      - "43.08"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.58"
+      - "1.08"
+      - "1.00"
+      - "1.36"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.47"
+      - "0.55"
+      - "0.36"
+      - "0.45"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/21"
+    tran_status: ""
+    temperature: "48"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "46.15"
+      - "41.04"
+      - "42.29"
+      - "34.00"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.93"
+      - "1.18"
+      - "1.29"
+      - "1.51"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.12"
+      - "1.30"
+      - "0.70"
+      - "0.90"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/22"
+    tran_status: ""
+    temperature: "51"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "43.31"
+      - "47.39"
+      - "43.80"
+      - "47.51"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.62"
+      - "1.30"
+      - "1.43"
+      - "0.24"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-4.63"
+      - "-3.86"
+      - "-3.14"
+      - "-3.99"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/23"
+    tran_status: ""
+    temperature: "49"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "40.53"
+      - "44.13"
+      - "44.46"
+      - "46.51"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.48"
+      - "1.20"
+      - "1.12"
+      - "0.93"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-4.40"
+      - "-3.82"
+      - "-2.63"
+      - "-2.35"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/24"
+    tran_status: ""
+    temperature: "51"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "44.01"
+      - "47.46"
+      - "47.46"
+      - "42.20"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.07"
+      - "0.79"
+      - "0.60"
+      - "1.59"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.36"
+      - "-0.17"
+      - "0.63"
+      - "0.62"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/25"
+    tran_status: ""
+    temperature: "44"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "36.86"
+      - "39.02"
+      - "30.13"
+      - "26.22"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.57"
+      - "0.85"
+      - "0.11"
+      - "-0.11"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.81"
+      - "0.31"
+      - "0.78"
+      - "1.01"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/26"
+    tran_status: ""
+    temperature: "46"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "43.98"
+      - "45.42"
+      - "41.81"
+      - "44.41"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.96"
+      - "0.71"
+      - "1.08"
+      - "1.05"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.92"
+      - "0.40"
+      - "0.70"
+      - "0.29"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/27"
+    tran_status: ""
+    temperature: "46"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "40.23"
+      - "41.58"
+      - "45.55"
+      - "44.12"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.11"
+      - "1.11"
+      - "1.15"
+      - "0.79"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.01"
+      - "0.100"
+      - "0.62"
+      - "1.28"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/28"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/29"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/30"
+    tran_status: ""
+    temperature: "33"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "7.80"
+      - "7.80"
+      - "7.80"
+      - "7.80"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "-0.03"
+      - "-0.03"
+      - "0.18"
+      - "0.25"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.58"
+      - "0.21"
+      - "0.62"
+      - "0.70"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 1/31"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/32"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/33"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/34"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/35"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 1/36"
+    tran_status: ""
+    temperature: "39"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "41.82"
+      - "41.55"
+      - "42.06"
+      - "39.16"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.29"
+      - "1.19"
+      - "1.29"
+      - "1.16"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-0.02"
+      - "0.88"
+      - "1.71"
+      - "1.15"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/1"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/2"
+    tran_status: ""
+    temperature: "30"
+    temperature_status: "OK"
+    voltage: "3.31"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/3"
+    tran_status: ""
+    temperature: "30"
+    temperature_status: "OK"
+    voltage: "3.31"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/4"
+    tran_status: ""
+    temperature: "33"
+    temperature_status: "OK"
+    voltage: "3.31"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/5"
+    tran_status: ""
+    temperature: "30"
+    temperature_status: "OK"
+    voltage: "3.31"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/6"
+    tran_status: ""
+    temperature: "32"
+    temperature_status: "OK"
+    voltage: "3.30"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/7"
+    tran_status: ""
+    temperature: "31"
+    temperature_status: "OK"
+    voltage: "3.30"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/8"
+    tran_status: ""
+    temperature: "32"
+    temperature_status: "OK"
+    voltage: "3.30"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/9"
+    tran_status: ""
+    temperature: "31"
+    temperature_status: "OK"
+    voltage: "3.29"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/10"
+    tran_status: ""
+    temperature: "35"
+    temperature_status: "OK"
+    voltage: "3.30"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/11"
+    tran_status: ""
+    temperature: "30"
+    temperature_status: "OK"
+    voltage: "3.30"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/12"
+    tran_status: ""
+    temperature: "34"
+    temperature_status: "OK"
+    voltage: "3.30"
+    voltage_status: "OK"
+    bias:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    bias_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    tx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    tx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+    rx_power:
+      - "NA"
+      - "NA"
+      - "NA"
+      - "NA"
+    rx_power_status:
+      - "None"
+      - "None"
+      - "None"
+      - "None"
+  - interface: "HundredGigabitEthernet 2/13"
+    tran_status: ""
+    temperature: "44"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "43.40"
+      - "39.76"
+      - "41.32"
+      - "40.50"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.91"
+      - "1.40"
+      - "1.22"
+      - "1.33"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.25"
+      - "0.49"
+      - "0.44"
+      - "0.62"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/14"
+    tran_status: ""
+    temperature: "48"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "46.23"
+      - "46.19"
+      - "40.67"
+      - "43.22"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.86"
+      - "0.99"
+      - "1.40"
+      - "1.19"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.22"
+      - "1.12"
+      - "2.15"
+      - "1.44"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/15"
+    tran_status: ""
+    temperature: "44"
+    temperature_status: "OK"
+    voltage: "3.28"
+    voltage_status: "OK"
+    bias:
+      - "43.01"
+      - "44.56"
+      - "44.81"
+      - "44.57"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.92"
+      - "0.82"
+      - "0.91"
+      - "0.85"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.53"
+      - "0.93"
+      - "1.13"
+      - "1.46"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/16"
+    tran_status: ""
+    temperature: "46"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "36.23"
+      - "39.83"
+      - "41.05"
+      - "44.76"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.47"
+      - "1.77"
+      - "1.07"
+      - "1.29"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.93"
+      - "1.28"
+      - "1.54"
+      - "1.27"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/17"
+    tran_status: ""
+    temperature: "46"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "43.17"
+      - "46.77"
+      - "39.92"
+      - "45.53"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.50"
+      - "1.27"
+      - "1.59"
+      - "-0.28"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.85"
+      - "1.18"
+      - "1.50"
+      - "1.29"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/18"
+    tran_status: ""
+    temperature: "47"
+    temperature_status: "OK"
+    voltage: "3.27"
+    voltage_status: "OK"
+    bias:
+      - "42.27"
+      - "41.38"
+      - "40.96"
+      - "45.88"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.04"
+      - "1.24"
+      - "1.30"
+      - "0.98"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-0.74"
+      - "0.62"
+      - "0.43"
+      - "0.66"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/19"
+    tran_status: ""
+    temperature: "47"
+    temperature_status: "OK"
+    voltage: "3.24"
+    voltage_status: "OK"
+    bias:
+      - "40.18"
+      - "42.55"
+      - "46.69"
+      - "39.80"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.17"
+      - "1.12"
+      - "1.16"
+      - "1.18"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.30"
+      - "0.84"
+      - "1.69"
+      - "1.62"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/20"
+    tran_status: ""
+    temperature: "48"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "39.22"
+      - "41.73"
+      - "41.06"
+      - "44.89"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.94"
+      - "1.09"
+      - "1.16"
+      - "1.17"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.07"
+      - "0.77"
+      - "1.03"
+      - "1.61"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/21"
+    tran_status: ""
+    temperature: "45"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "45.53"
+      - "45.46"
+      - "45.42"
+      - "41.94"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.13"
+      - "0.59"
+      - "0.98"
+      - "0.89"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.76"
+      - "0.39"
+      - "1.29"
+      - "1.90"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/22"
+    tran_status: ""
+    temperature: "48"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "44.79"
+      - "40.83"
+      - "38.23"
+      - "46.08"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.28"
+      - "1.40"
+      - "0.58"
+      - "0.57"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-5.14"
+      - "-4.51"
+      - "-3.95"
+      - "-3.10"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/23"
+    tran_status: ""
+    temperature: "47"
+    temperature_status: "OK"
+    voltage: "3.25"
+    voltage_status: "OK"
+    bias:
+      - "45.84"
+      - "45.72"
+      - "41.32"
+      - "42.53"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.65"
+      - "0.74"
+      - "1.21"
+      - "1.51"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-4.78"
+      - "-3.80"
+      - "-3.61"
+      - "-3.24"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/24"
+    tran_status: ""
+    temperature: "47"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "41.97"
+      - "45.72"
+      - "45.84"
+      - "45.73"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.29"
+      - "0.34"
+      - "0.18"
+      - "0.41"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.10"
+      - "0.59"
+      - "1.44"
+      - "0.21"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/25"
+    tran_status: ""
+    temperature: "42"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "41.24"
+      - "43.71"
+      - "41.13"
+      - "38.69"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.27"
+      - "0.61"
+      - "1.44"
+      - "1.45"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-0.79"
+      - "0.10"
+      - "-0.25"
+      - "0.34"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/26"
+    tran_status: ""
+    temperature: "42"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "44.23"
+      - "43.05"
+      - "36.92"
+      - "38.28"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.72"
+      - "1.32"
+      - "1.39"
+      - "1.05"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "0.08"
+      - "-0.30"
+      - "0.94"
+      - "0.37"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/27"
+    tran_status: ""
+    temperature: "38"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "39.18"
+      - "40.27"
+      - "37.34"
+      - "41.75"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "1.32"
+      - "1.28"
+      - "1.17"
+      - "1.39"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.42"
+      - "1.85"
+      - "1.04"
+      - "0.91"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/28"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/29"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/30"
+    tran_status: ""
+    temperature: "31"
+    temperature_status: "OK"
+    voltage: "3.26"
+    voltage_status: "OK"
+    bias:
+      - "7.80"
+      - "7.80"
+      - "7.80"
+      - "7.80"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "0.11"
+      - "0.11"
+      - "-0.18"
+      - "0.49"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "-0.19"
+      - "-0.33"
+      - "0.27"
+      - "-0.15"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+  - interface: "HundredGigabitEthernet 2/31"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/32"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/33"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/34"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/35"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "HundredGigabitEthernet 2/36"
+    tran_status: ""
+    temperature: "38"
+    temperature_status: "OK"
+    voltage: "3.28"
+    voltage_status: "OK"
+    bias:
+      - "42.59"
+      - "42.75"
+      - "42.00"
+      - "42.84"
+    bias_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    tx_power:
+      - "-0.28"
+      - "0.52"
+      - "1.04"
+      - "0.98"
+    tx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"
+    rx_power:
+      - "1.35"
+      - "1.82"
+      - "0.96"
+      - "1.50"
+    rx_power_status:
+      - "OK"
+      - "OK"
+      - "OK"
+      - "OK"

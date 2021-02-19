@@ -1,0 +1,26 @@
+Value Filldown,Required ROUTER_ID ([0-9a-f:\.]+)
+Value Filldown LOCAL_AS (\d+|\d+\.\d+)
+Value Filldown ADDR_FAMILY (.+?)
+Value Filldown VRF (\S+)
+Value Filldown RD (\d+:\d+)
+Value BGP_NEIGH ([0-9a-f:\.]+)
+Value NEIGH_AS (\d+|\d+\.\d+)
+Value UP_DOWN (\S+?)
+Value STATE_PFXRCD (\S+?\s+\S+?|\S+?)
+
+Start
+  ^For\s+address\s+family:\s+${ADDR_FAMILY}$$
+  ^BGP\s+router\s+identifier\s+${ROUTER_ID},\s+local\s+AS\s+number\s+${LOCAL_AS}\s*$$
+  ^BGP\s+VRF\s+${VRF}\s+Route\s+Distinguisher:\s+${RD}
+  ^${BGP_NEIGH}\s+\S+\s+${NEIGH_AS}(\s+\d+?){5}\s+${UP_DOWN}\s+${STATE_PFXRCD}\s*$$ -> Record
+  #
+  #
+  # 匹配ipv6邻居地址过长导致变成两行的情况，例如：
+  #Neighbor        V          AS MsgRcvd MsgSent   TblVer  InQ OutQ Up/Down  State/PfxRcd
+  #fec0:192:1:100::2
+  #              4 64086.65006       0       0        0    0    0    never Idle       
+  ^${BGP_NEIGH}\s*$$ -> Next
+  ^\s{16,}\S+\s+${NEIGH_AS}(\s+\d+?){5}\s+${UP_DOWN}\s+${STATE_PFXRCD}\s*$$ -> Record
+
+
+EOF

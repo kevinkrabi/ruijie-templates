@@ -1,0 +1,3 @@
+auto-sync range      : vsu
+auto-sync policy     : coordinate 
+auto-sync package    : flash:upgrade/S6910_RGOS12.4(1)B0201_install.bin 

@@ -1,0 +1,6 @@
+---
+parsed_sample:
+  - policy: "compatible"
+    package: "flash:upgrade/poap.image.bin"
+    range: "vsu"
+    patch: ""

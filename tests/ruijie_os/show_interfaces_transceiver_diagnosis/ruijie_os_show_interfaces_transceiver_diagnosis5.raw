@@ -1,0 +1,399 @@
+
+========Interface TFGigabitEthernet 0/1========
+Transceiver Type    :  10GBASE-SR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  850
+Transfer Distance   : 
+    50/125 um OM2 fiber
+        -- 80m
+    62.5/125 um OM1 fiber
+        -- 30m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT349072255   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+20(OK)          3.28(OK)        6.92(OK)            -1.59(OK)[AP]       -2.90(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TFGigabitEthernet 0/2========
+Transceiver Type    :  10GBASE-SR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  850
+Transfer Distance   : 
+    50/125 um OM2 fiber
+        -- 80m
+    62.5/125 um OM1 fiber
+        -- 30m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT349079323   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+19(OK)          3.27(OK)        7.47(OK)            -2.55(OK)[AP]       -2.52(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TFGigabitEthernet 0/3========
+Transceiver Type    :  10GBASE-SR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  850
+Transfer Distance   : 
+    50/125 um OM2 fiber
+        -- 80m
+    62.5/125 um OM1 fiber
+        -- 30m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT349065147   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+20(OK)          3.29(OK)        6.26(OK)            -1.58(OK)[AP]       -2.14(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TFGigabitEthernet 0/4========
+Transceiver Type    :  10GBASE-SR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  850
+Transfer Distance   : 
+    50/125 um OM2 fiber
+        -- 80m
+    62.5/125 um OM1 fiber
+        -- 30m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT349079344   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+21(OK)          3.29(OK)        6.81(OK)            0.07(warning)[AP]   -2.70(OK)
+
+Transceiver current alarm information:
+RX power high warn
+Interface TFGigabitEthernet 0/4 alarm detect.
+
+========Interface TFGigabitEthernet 0/5========
+Interface TFGigabitEthernet 0/5 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/6========
+Interface TFGigabitEthernet 0/6 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/7========
+Interface TFGigabitEthernet 0/7 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/8========
+Interface TFGigabitEthernet 0/8 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/9========
+Interface TFGigabitEthernet 0/9 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/10========
+Interface TFGigabitEthernet 0/10 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/11========
+Interface TFGigabitEthernet 0/11 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/12========
+Interface TFGigabitEthernet 0/12 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/13========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9025461   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+21(OK)          3.34(OK)        35.11(OK)           -40.00(alarm)[AP]   -2.59(OK)
+
+Transceiver current alarm information:
+RX power low alarm
+RX power low warn
+RX loss of signal
+Interface TFGigabitEthernet 0/13 alarm detect.
+
+========Interface TFGigabitEthernet 0/14========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9027716   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+24(OK)          3.32(OK)        30.03(OK)           -40.00(alarm)[AP]   -3.43(OK)
+
+Transceiver current alarm information:
+RX power low alarm
+RX power low warn
+RX loss of signal
+Interface TFGigabitEthernet 0/14 alarm detect.
+
+========Interface TFGigabitEthernet 0/15========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9018712   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+23(OK)          3.33(OK)        27.42(OK)           -40.00(alarm)[AP]   -3.09(OK)
+
+Transceiver current alarm information:
+RX power low alarm
+RX power low warn
+RX loss of signal
+Interface TFGigabitEthernet 0/15 alarm detect.
+
+========Interface TFGigabitEthernet 0/16========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9010677   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+22(OK)          3.34(OK)        30.62(OK)           -40.00(alarm)[AP]   -1.65(OK)
+
+Transceiver current alarm information:
+RX power low alarm
+RX power low warn
+RX loss of signal
+Interface TFGigabitEthernet 0/16 alarm detect.
+
+========Interface TFGigabitEthernet 0/17========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9008264   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+23(OK)          3.32(OK)        35.85(OK)           -40.00(alarm)[AP]   -2.14(OK)
+
+Transceiver current alarm information:
+RX power low alarm
+RX power low warn
+RX loss of signal
+Interface TFGigabitEthernet 0/17 alarm detect.
+
+========Interface TFGigabitEthernet 0/18========
+Interface TFGigabitEthernet 0/18 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/19========
+Interface TFGigabitEthernet 0/19 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/20========
+Interface TFGigabitEthernet 0/20 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/21========
+Interface TFGigabitEthernet 0/21 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/22========
+Interface TFGigabitEthernet 0/22 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/23========
+Interface TFGigabitEthernet 0/23 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/24========
+Interface TFGigabitEthernet 0/24 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/25========
+Interface TFGigabitEthernet 0/25 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/26========
+Interface TFGigabitEthernet 0/26 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/27========
+Interface TFGigabitEthernet 0/27 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/28========
+Interface TFGigabitEthernet 0/28 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/29========
+Interface TFGigabitEthernet 0/29 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/30========
+Interface TFGigabitEthernet 0/30 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/31========
+Interface TFGigabitEthernet 0/31 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/32========
+Interface TFGigabitEthernet 0/32 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/33========
+Interface TFGigabitEthernet 0/33 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/34========
+Interface TFGigabitEthernet 0/34 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/35========
+Interface TFGigabitEthernet 0/35 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/36========
+Interface TFGigabitEthernet 0/36 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/37========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9015330   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+19(OK)          3.29(OK)        36.74(OK)           -18.07(alarm)[AP]   -2.65(OK)
+
+Transceiver current alarm information:
+RX power low alarm
+RX power low warn
+Interface TFGigabitEthernet 0/37 alarm detect.
+
+========Interface TFGigabitEthernet 0/38========
+Interface TFGigabitEthernet 0/38 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/39========
+Interface TFGigabitEthernet 0/39 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/40========
+Interface TFGigabitEthernet 0/40 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/41========
+Interface TFGigabitEthernet 0/41 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/42========
+Interface TFGigabitEthernet 0/42 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/43========
+Interface TFGigabitEthernet 0/43 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/44========
+Interface TFGigabitEthernet 0/44 : the transceiver is absent!
+
+========Interface TFGigabitEthernet 0/45========
+Transceiver Type    :  10GBASE-SR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  850
+Transfer Distance   : 
+    50/125 um OM2 fiber
+        -- 80m
+    62.5/125 um OM1 fiber
+        -- 30m
+    50/125 um OM3 fiber
+        -- 300m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT549109848   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+20(OK)          3.32(OK)        5.92(OK)            -1.74(OK)[AP]       -2.65(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TFGigabitEthernet 0/46========
+Transceiver Type    :  10GBASE-SR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  850
+Transfer Distance   : 
+    50/125 um OM2 fiber
+        -- 80m
+    62.5/125 um OM1 fiber
+        -- 30m
+    50/125 um OM3 fiber
+        -- 300m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT549101307   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+20(OK)          3.25(OK)        6.28(OK)            -2.02(OK)[AP]       -2.53(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TFGigabitEthernet 0/47========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT83H08458A   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+22(OK)          3.30(OK)        27.36(OK)           -4.62(OK)[AP]       -2.62(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TFGigabitEthernet 0/48========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1MT8P902063C   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+23(OK)          3.29(OK)        35.73(OK)           -4.35(OK)[AP]       -1.63(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface HundredGigabitEthernet 0/49========
+Interface HundredGigabitEthernet 0/49 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 0/50========
+Interface HundredGigabitEthernet 0/50 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 0/51========
+Interface HundredGigabitEthernet 0/51 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 0/52========
+Interface HundredGigabitEthernet 0/52 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 0/53========
+Interface HundredGigabitEthernet 0/53 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 0/54========
+Interface HundredGigabitEthernet 0/54 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 0/55========
+Interface HundredGigabitEthernet 0/55 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 0/56========
+Interface HundredGigabitEthernet 0/56 : the transceiver is absent!
+

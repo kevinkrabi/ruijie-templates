@@ -1,0 +1,31 @@
+Value LOCAL_INTERFACE (\w+\s+\S+)
+Value CHASSIS_ID (\S+)
+Value SYSTEM_NAME (.+?)
+Value SYSTEM_DESCRIPTION (.*)
+Value CAPABILITIES (.*)
+Value MANAGEMENT_IP (\S+)
+Value NEIGHBOR_INTERFACE (.*)
+Value NEIGHBOR_DESCRIPTION (.*)
+Value VLAN_ID (\d+)
+Value VLAN_NAME (.*)
+
+Start
+  #^-{50,}\s* -> Record
+  ^LLDP neighbor-information -> Continue.Record
+  ^LLDP\s+neighbor-information\s+of\s+port\s+\[${LOCAL_INTERFACE}\]
+  ^\s+Chassis\s+ID\s+:\s+${CHASSIS_ID}
+  ^\s+System\s+name\s+:\s+${SYSTEM_NAME}\s*$$
+  ^\s+System\s+description\s+:\s+${SYSTEM_DESCRIPTION}
+  ^\s+System\s+capabilities\s+enabled\s+:\s+${CAPABILITIES}
+  ^\s+Management\s+address\s+subtype\s+:\s+ipv4 -> MgmtIP
+  ^\s+Port\s+ID\s+:\s+${NEIGHBOR_INTERFACE}
+  ^\s+Port\s+description\s+:\s+${NEIGHBOR_DESCRIPTION}
+  ^\s+802\.1\s+organizationally\s+information -> VLAN
+
+MgmtIP
+  ^\s+Management\s+address\s+:\s+${MANAGEMENT_IP} -> Start
+
+VLAN
+  ^\s+Port\s+VLAN\s+ID\s+:\s+${VLAN_ID}
+  ^\s+VLAN\s+name\s+of\s+VLAN\s+\d+\s+:\s+${VLAN_NAME}
+  ^\s+Protocol\s+Identity -> Start

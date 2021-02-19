@@ -1,0 +1,194 @@
+----------------------------------------------------------------------------
+LLDP neighbor-information of port [HundredGigabitEthernet 1/1]
+----------------------------------------------------------------------------
+  Neighbor index                    : 1
+  Device type                       : LLDP Device
+  Update time                       : 6minutes 44seconds 
+  Aging time                        : 1minutes 40seconds 
+
+  Chassis ID type                   : MAC address
+  Chassis ID                        : 00d0.f822.3ac4
+  System name                       : MC1
+  System description                : Ruijie High-density IPv6 100G Core Routing Switch(N18010-X) By Ruijie Networks, 
+Running on RGOS Software N18000-X_RGOS 12.4(1)B0301P8 (M16335012082020)
+  System capabilities supported     : Bridge, Router
+  System capabilities enabled       : Bridge, Router
+
+  Management address subtype        : ipv4
+  Management address                : 172.28.130.112
+  Interface numbering subtype       : ifIndex
+  Interface number                  : 8193
+  Object identifier                 : 
+
+  Management address subtype        : ipv6
+  Management address                : 240e:678:8c0::ac1c:8270
+  Interface numbering subtype       : ifIndex
+  Interface number                  : 8193
+  Object identifier                 : 
+
+
+  Port ID type                      : Interface name
+  Port ID                           : HundredGigabitEthernet 1/31
+  Port description                  : To_DUT_3
+
+  802.1 organizationally information
+  Port VLAN ID                      : 
+  Port and protocol VLAN ID(PPVID)  : 0
+      PPVID Supported               : NO
+      PPVID Enabled                 : NO
+  VLAN name of VLAN 0               : 
+  Protocol Identity                 : 
+
+
+  802.3 organizationally information
+  Auto-negotiation supported        : NO
+  Auto-negotiation enabled          : NO
+  PMD auto-negotiation advertised   : 
+  Operational MAU type              : Duplex(Auto)
+  PoE support                       : NO
+  Link aggregation supported        : YES
+  Link aggregation enabled          : NO
+  Aggregation port ID               : 0
+  Maximum frame Size                : 1500
+----------------------------------------------------------------------------
+LLDP neighbor-information of port [HundredGigabitEthernet 1/2]
+----------------------------------------------------------------------------
+  Neighbor index                    : 1
+  Device type                       : LLDP Device
+  Update time                       : 6minutes 45seconds 
+  Aging time                        : 1minutes 41seconds 
+
+  Chassis ID type                   : MAC address
+  Chassis ID                        : 00d0.f822.9d83
+  System name                       : MC2
+  System description                : Ruijie High-density IPv6 100G Core Routing Switch(N18010-X) By Ruijie Networks, 
+Running on RGOS Software N18000-X_RGOS 12.4(1)B0301P8 (M16335012082020)
+  System capabilities supported     : Bridge, Router
+  System capabilities enabled       : Bridge, Router
+
+  Management address subtype        : ipv4
+  Management address                : 172.28.130.111
+  Interface numbering subtype       : ifIndex
+  Interface number                  : 8193
+  Object identifier                 : 
+
+  Management address subtype        : ipv6
+  Management address                : 240e:678:8c0::ac1c:826f
+  Interface numbering subtype       : ifIndex
+  Interface number                  : 8193
+  Object identifier                 : 
+          
+
+  Port ID type                      : Interface name
+  Port ID                           : HundredGigabitEthernet 1/27
+  Port description                  : dT:LSW-VM-INTER-G3-2.NA62:100GE1/2/6.504Local-MCMCMCMCMCMCMCMCMCMCMCCMCMCMCMCMCMCMCMCMCM        
+
+  802.1 organizationally information
+  Port VLAN ID                      : 
+  Port and protocol VLAN ID(PPVID)  : 0
+      PPVID Supported               : NO
+      PPVID Enabled                 : NO
+  VLAN name of VLAN 0               : 
+  Protocol Identity                 : 
+
+
+  802.3 organizationally information
+  Auto-negotiation supported        : NO
+  Auto-negotiation enabled          : NO
+  PMD auto-negotiation advertised   : 
+  Operational MAU type              : Duplex(Auto)
+  PoE support                       : NO
+  Link aggregation supported        : YES
+  Link aggregation enabled          : NO
+  Aggregation port ID               : 0
+  Maximum frame Size                : 1500
+----------------------------------------------------------------------------
+LLDP neighbor-information of port [Mgmt 0]
+----------------------------------------------------------------------------
+  Neighbor index                    : 1
+  Device type                       : LLDP Device
+  Update time                       : 2hours 13minutes 59seconds 
+  Aging time                        : 1minutes 51seconds 
+
+  Chassis ID type                   : MAC address
+  Chassis ID                        : 5869.6c9e.a161
+  System name                       : dawang-130.251
+  System description                : Ruijie 10G Routing Switch(S6010-48GT4XS) By Ruijie Networks
+  System capabilities supported     : Repeater, Bridge, Router
+  System capabilities enabled       : Repeater, Bridge, Router
+
+  Management address subtype        : ipv4
+  Management address                : 172.28.130.251
+  Interface numbering subtype       : ifIndex
+  Interface number                  : 4107
+  Object identifier                 : 
+          
+
+  Port ID type                      : Interface name
+  Port ID                           : GigabitEthernet 0/11
+  Port description                  : GigabitEthernet 0/11
+
+  802.1 organizationally information
+  Port VLAN ID                      : 11
+  Port and protocol VLAN ID(PPVID)  : 0
+      PPVID Supported               : NO
+      PPVID Enabled                 : NO
+  VLAN name of VLAN 11              : VLAN0011
+  Protocol Identity                 : 
+
+
+  802.3 organizationally information
+  Auto-negotiation supported        : YES
+  Auto-negotiation enabled          : YES
+  PMD auto-negotiation advertised   : 1000BASE-T(FD), 100BASE-TX(FD), 10BASE-T(FD)
+  Operational MAU type              : Duplex(Auto)
+  PoE support                       : NO
+  Link aggregation supported        : YES
+  Link aggregation enabled          : NO
+  Aggregation port ID               : 0
+  Maximum frame Size                : 1500
+----------------------------------------------------------------------------
+LLDP neighbor-information of port [Mgmt 0]
+----------------------------------------------------------------------------
+  Neighbor index                    : 1
+  Device type                       : LLDP Device
+  Update time                       : 1minutes 32seconds 
+  Aging time                        : 1minutes 33seconds 
+
+  Chassis ID type                   : MAC address
+  Chassis ID                        : 5869.6cb3.4bcc
+  System name                       : AAAA-Jinpao-OOB-2
+  System description                : Ruijie Full Gigabit Security & Intelligence Access Switch (S2952G-E) By Ruijie Networks
+  System capabilities supported     : Repeater, Bridge, Router
+  System capabilities enabled       : Repeater, Bridge, Router
+
+  Management address subtype        : ipv4
+  Management address                : 172.28.127.3
+  Interface numbering subtype       : ifIndex
+  Interface number                  : 4223
+  Object identifier                 : 
+
+
+  Port ID type                      : Interface name
+  Port ID                           : Gi0/39
+  Port description                  : GigabitEthernet 0/39
+
+  802.1 organizationally information
+  Port VLAN ID                      : 127
+  Port and protocol VLAN ID(PPVID)  : 0
+      PPVID Supported               : YES
+      PPVID Enabled                 : NO
+  VLAN name of VLAN 127             : VLAN0127
+  Protocol Identity                 : 
+
+
+  802.3 organizationally information
+  Auto-negotiation supported        : YES
+  Auto-negotiation enabled          : YES
+  PMD auto-negotiation advertised   : 1000BASE-T(FD), 100BASE-TX(FD), 100BASE-TX(HD), 10BASE-T(FD), 10BASE-T(HD)
+  Operational MAU type              : Speed(1000)/Duplex(Full)
+  PoE support                       : NO
+  Link aggregation supported        : YES
+  Link aggregation enabled          : NO
+  Aggregation port ID               : 0
+  Maximum frame Size                : 1500

@@ -1,0 +1,68 @@
+---
+parsed_sample:
+  - interface: "TenGigabitEthernet 0/49"
+    tran_status: ""
+    temperature: "21"
+    temperature_status: "OK"
+    voltage: "3.32"
+    voltage_status: "OK"
+    bias:
+      - "7.62"
+    bias_status:
+      - "OK"
+    tx_power:
+      - "-2.02"
+    tx_power_status:
+      - "OK"
+    rx_power:
+      - "-40.00"
+    rx_power_status:
+      - "alarm"
+  - interface: "TenGigabitEthernet 0/50"
+    tran_status: "the transceiver is absent!"
+    temperature: ""
+    temperature_status: ""
+    voltage: ""
+    voltage_status: ""
+    bias: []
+    bias_status: []
+    tx_power: []
+    tx_power_status: []
+    rx_power: []
+    rx_power_status: []
+  - interface: "TenGigabitEthernet 0/51"
+    tran_status: ""
+    temperature: "28"
+    temperature_status: "OK"
+    voltage: "3.37"
+    voltage_status: "OK"
+    bias:
+      - "34.69"
+    bias_status:
+      - "OK"
+    tx_power:
+      - "-1.76"
+    tx_power_status:
+      - "OK"
+    rx_power:
+      - "-3.88"
+    rx_power_status:
+      - "OK"
+  - interface: "TenGigabitEthernet 0/52"
+    tran_status: ""
+    temperature: "26"
+    temperature_status: "OK"
+    voltage: "3.35"
+    voltage_status: "OK"
+    bias:
+      - "38.58"
+    bias_status:
+      - "OK"
+    tx_power:
+      - "-1.65"
+    tx_power_status:
+      - "OK"
+    rx_power:
+      - "-4.11"
+    rx_power_status:
+      - "OK"

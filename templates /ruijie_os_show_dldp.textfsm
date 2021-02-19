@@ -1,0 +1,11 @@
+Value Required INTERFACE (\w+\s*(\d+\/)*\S+)
+Value TYPE (\S+)
+Value IP ((\d+\.){3}\d+)
+Value NEXT_HOP ((\d+\.){3}\d+)
+Value INTERVAL (\d+)
+Value RETRY (\d+)
+Value RESUME (\d+)
+Value STATE (Up|Down)
+
+Start
+  ^${INTERFACE}\s+${TYPE}\s+${IP}\s+${NEXT_HOP}\s+${INTERVAL}\s+${RETRY}\s+${RESUME}\s+${STATE} -> Record

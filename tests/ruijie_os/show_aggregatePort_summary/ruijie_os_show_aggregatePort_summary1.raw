@@ -1,0 +1,8 @@
+AggregatePort MaxPorts SwitchPort Mode   Load balance                 Ports                              
+------------- -------- ---------- ------ ---------------------------- -----------------------------------
+Ag1           8        Enabled    ACCESS src-dst-mac                  Gi0/1   ,Gi0/2   ,Gi0/3   ,Gi0/4   
+                                                                      Gi0/5   
+Ag100         8        Enabled    ACCESS src-dst-mac                  Gi0/6   ,Gi0/7   ,Gi0/8   ,Gi0/9   
+                                                                      Gi0/10  ,Gi0/11  ,Gi0/12  
+Ag111         8        Enabled    ACCESS src-dst-mac                  Gi0/32  ,Gi0/33  ,Gi0/34  ,Gi0/35  
+                                                                      Gi0/36  ,Gi0/37  ,Gi0/38  ,Gi0/39  

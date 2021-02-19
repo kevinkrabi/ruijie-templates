@@ -1,0 +1,10 @@
+Value Required NEIGHBOR (\S+)
+Value Required LOCAL_INTERFACE ([A-Z][a-z]\d+(\/\d+)*)
+Value Required NEIGHBOR_INTERFACE (.+?)
+#Value CAPABILITIES (\S*)
+Value CAPABILITIES (([RBTCWPSO], )*[RBTCWPSO]+)
+Value TIME (\d+\w+(\s\d+\w+)*)
+
+Start
+  ^${NEIGHBOR}\s*${LOCAL_INTERFACE}\s+${NEIGHBOR_INTERFACE}\s*${CAPABILITIES}\s+${TIME} -> Record
+  ^${NEIGHBOR}\s*${LOCAL_INTERFACE}\s+${NEIGHBOR_INTERFACE}\s+${TIME} -> Record

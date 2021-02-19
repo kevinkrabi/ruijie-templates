@@ -1,0 +1,20 @@
+Capability codes:
+    (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+    (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+System Name                 Local Intf          Port ID                          Capability   Aging-time
+Mancore-5.1                 Hu1/1               HundredGigabitEthernet 0/53      P, B, R      1minutes 57seconds 
+PSW1-B9P65                  Hu1/13              HundredGigabitEthernet 0/19      P, B, R      1minutes 56seconds 
+PSW3-B9P43                  Hu1/14              HundredGigabitEthernet 0/19      P, B, R      1minutes 56seconds 
+PSW1-B9P65                  Hu1/21              HundredGigabitEthernet 0/35      P, B, R      1minutes 56seconds 
+PSW4                        Hu4/22              HundredGigabitEthernet 0/36      P, B, R      1minutes 55seconds 
+PSW2-B9P30                  Hu4/29              HundredGigabitEthernet 0/52      P, B, R      1minutes 55seconds 
+PSW4                        Hu4/30              HundredGigabitEthernet 0/52      P, B, R      1minutes 55seconds 
+AAAAAAA-Jinpao-OOB-2        Mg0                 Gi0/10                           P, B, R      1minutes 52seconds 
+FC                          Hu1/3               HundredGigabitEthernet 0/63      P, B, R      2minutes
+PSW2-B9P30                  Hu0/50              HundredGigabitEthernet 0/10      P, B, R      1minutes 58seconds 
+PSW3-B9P43                  Hu1/14              HundredGigabitEthernet 0/19      P, B, R      1minutes 56seconds 
+MC1                         Hu1/1               HundredGigabitEthernet 1/31      B, R         1minutes 36seconds 
+Unknown                     Gi2/0/3             f875.a4c2.de61                                57minutes 9seconds 
+AAAABBBBCCCCDDDDEEEEFFFFGGGGHu2/26              100GE1/2/1                       B, R         1minutes 50seconds 
+AA-BBB-CCCCCCC-DDD-EEEEEEE-FF-01Fo1/0/49            HundredGigabitEthernet 8/17      P, B, R      1minutes 47seconds 
+AA-BBB-CCCCCCC-DDD-EEEEEEE-FFF-31Hu1/6               100GE1/0/0                       B, R         1minutes 32seconds 

@@ -1,0 +1,12 @@
+Value SLOT (\S+)
+Value DEVICE_TYPE (\S+)
+Value STATUS (\w+)
+Value REASON (.*)
+
+Start
+  ^\[Slot -> Continue.Record
+  ^\[Slot\s+${SLOT}\]
+  ^\s+Device\s+type\s+:\s+${DEVICE_TYPE}
+  ^.*Status\s+:\s+${STATUS} -> Continue
+  ^\s+Status\s+:\s+\w+\(${REASON}\)
+  ^.*Reason\s+:\s+${REASON}

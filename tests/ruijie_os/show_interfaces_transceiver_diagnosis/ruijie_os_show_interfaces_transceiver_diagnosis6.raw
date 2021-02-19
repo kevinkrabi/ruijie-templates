@@ -1,0 +1,59 @@
+
+========Interface TenGigabitEthernet 0/49========
+Transceiver Type    :  10GBASE-SR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  850
+Transfer Distance   : 
+    50/125 um OM2 fiber
+        -- 80m
+    62.5/125 um OM1 fiber
+        -- 30m
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1PT349053141   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+21(OK)          3.32(OK)        7.62(OK)            -40.00(alarm)[AP]   -2.02(OK)
+
+Transceiver current alarm information:
+RX power low alarm
+RX power low warn
+RX loss of signal
+Interface TenGigabitEthernet 0/49 alarm detect.
+
+========Interface TenGigabitEthernet 0/50========
+Interface TenGigabitEthernet 0/50 : the transceiver is absent!
+
+========Interface TenGigabitEthernet 0/51========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9010521   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+28(OK)          3.37(OK)        34.69(OK)           -3.88(OK)[AP]       -1.76(OK)
+
+Transceiver current alarm information:
+None
+
+========Interface TenGigabitEthernet 0/52========
+Transceiver Type    :  10GBASE-LR-SFP+
+Connector Type      :  LC
+Wavelength(nm)      :  1310
+Transfer Distance   : 
+    SMF fiber
+        -- 10km
+Digital Diagnostic Monitoring  : YES
+Vendor Serial Number           : G1NT3P9013945   
+
+Current diagnostic parameters[AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+26(OK)          3.35(OK)        38.58(OK)           -4.11(OK)[AP]       -1.65(OK)
+
+Transceiver current alarm information:
+None

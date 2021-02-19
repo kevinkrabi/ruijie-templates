@@ -1,0 +1,16 @@
+Value SWITCH (\S+)
+Value START_TIME (.+)
+Value UPTIME (.+)
+Value VERSION (.+)
+Value PATCH (.+)
+Value BOOT_VERSION (.+)
+Value RBOOT_VERSION (.+)
+
+Start
+  ^.*Switch\(${SWITCH}\).*
+  ^System start time\s+:\s+${START_TIME}
+  ^System uptime\s+:\s+${UPTIME}
+  ^System software version\s+:\s+${VERSION}
+  ^System patch number\s+:\s+${PATCH}
+  ^System boot version\s+:\s+${BOOT_VERSION}
+  ^System rboot version\s+:\s+${RBOOT_VERSION} -> Record

@@ -1,0 +1,10 @@
+Value RANGE (\w+)
+Value POLICY (\w+)
+Value PACKAGE (\S+)
+Value PATCH (\S+)
+
+Start
+  ^auto-sync\s+range\s+:\s+${RANGE}
+  ^auto-sync\s+policy\s+:\s+${POLICY}
+  ^auto-sync\s+package\s+:\s+${PACKAGE}
+  ^auto-sync\s+patch\s+:\s+${PATCH} -> Record

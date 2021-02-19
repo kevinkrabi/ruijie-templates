@@ -1,0 +1,4 @@
+auto-sync range      : chassis
+auto-sync policy     : coordinate 
+auto-sync package    : flash:auto_pkg_dir/ps64.bin 
+auto-sync patch      : flash:auto_patch_dir/N18000-X_RGOS11.3(1)B6P80_CMXII-DB_SP3.bin 

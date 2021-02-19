@@ -1,0 +1,11 @@
+Value LOCAL_ADDR (\S+)
+Value NEIGH_ADDR (\S+)
+Value LD (\d+)
+Value RD (\d+)
+Value HOLDOWN (\d+)
+Value MULT (\d+)
+Value STATE (Up|Down)
+Value INTERFACE (\w+\s*(\d+\/)*\S+)
+
+Start
+  ^${LOCAL_ADDR}\s+${NEIGH_ADDR}\s+${LD}\/${RD}\s+\S+\s+${HOLDOWN}\s*\(\s*${MULT}\s+\)\s+${STATE}\s+${INTERFACE} -> Record

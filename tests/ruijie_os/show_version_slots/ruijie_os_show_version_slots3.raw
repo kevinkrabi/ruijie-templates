@@ -1,0 +1,7 @@
+S6910-3C#show ver slots 
+  Dev Slot Port Configured Module            Online Module                Software Status
+  --- ---- ---- ---------------------------- ---------------------------- ---------------
+  1   0    0    RG-S6910-3C                  RG-S6910-3C                  master         
+  1   1    96   M6900-32CQ                   M6900-32CQ                   ok             
+  1   2    96   M6900-32CQ                   M6900-32CQ                   ok             
+  1   3    96   M6900-32CQ                   M6900-32CQ                   ok             

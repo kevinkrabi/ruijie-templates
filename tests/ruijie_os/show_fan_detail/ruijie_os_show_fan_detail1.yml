@@ -1,0 +1,17 @@
+---
+parsed_sample:
+  - fan_id: "1"
+    fan_type: "M18010X-FAN"
+    sn: "G1L713R000909"
+    status: "ok"
+    mode: "normal"
+  - fan_id: "2"
+    fan_type: "M18010X-FAN"
+    sn: "G1L713R000301"
+    status: "ok"
+    mode: "normal"
+  - fan_id: "3"
+    fan_type: "RG_FAN"
+    sn: ""
+    status: "fail"
+    mode: "normal"

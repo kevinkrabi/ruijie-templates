@@ -1,0 +1,58 @@
+Interface                        Switchport Mode      Access Native Protected VLAN lists
+-------------------------------- ---------- --------- ------ ------ --------- ----------------------
+HundredGigabitEthernet 0/49      disabled                           Disabled 
+HundredGigabitEthernet 0/50      disabled                           Disabled 
+HundredGigabitEthernet 0/51      disabled                           Disabled 
+HundredGigabitEthernet 0/52      disabled                           Disabled 
+HundredGigabitEthernet 0/53      disabled                           Disabled 
+HundredGigabitEthernet 0/54      disabled                           Disabled 
+HundredGigabitEthernet 0/55      disabled                           Disabled 
+HundredGigabitEthernet 0/56      disabled                           Disabled 
+AggregatePort 1                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 2                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 3                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 4                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 5                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 6                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 7                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 8                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 9                  enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 10                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 11                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 12                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 13                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 14                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 15                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 16                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 17                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 18                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 19                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 20                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 21                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 22                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 23                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 24                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 25                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 26                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 27                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 28                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 29                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 30                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 31                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 32                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 33                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 34                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 35                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 36                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 37                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 38                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 39                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 40                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 41                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 42                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 43                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 44                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 45                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 46                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 47                 enabled    TRUNK     1      10     Disabled  10,701
+AggregatePort 48                 enabled    TRUNK     1      10     Disabled  10,701

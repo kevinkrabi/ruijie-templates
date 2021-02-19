@@ -1,0 +1,14 @@
+---
+parsed_sample:
+  - device_id: "1"
+    slot_id: "0"
+    port: "78"
+    config_module: "RG-S6220-48XS6QXS-H"
+    online_module: "RG-S6220-48XS6QXS-H"
+    software_status: "master"
+  - device_id: "2"
+    slot_id: "0"
+    port: "78"
+    config_module: "RG-S6220-48XS6QXS-H"
+    online_module: "RG-S6220-48XS6QXS-H"
+    software_status: "backup"

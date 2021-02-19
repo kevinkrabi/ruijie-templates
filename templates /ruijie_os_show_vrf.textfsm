@@ -1,0 +1,11 @@
+Value Required NAME (\S+)
+Value DEFAULT_RD ((\d+|\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3}):\d+|<not set>)
+Value PROTOCOLS (\S+|<not set>)
+Value List INTERFACES (<none>|\w+\s*(\d+\/)+\S+|\w+\s*\d+)
+
+Start
+  ^\s+Name\s+Default\s+RD\s+Protocols\(s\)\s+Interfaces
+  ^\S+ -> Continue.Record
+  ^\s{60,}${INTERFACES}
+  ^${NAME}\s+${DEFAULT_RD}\s+${PROTOCOLS}\s+${INTERFACES}
+

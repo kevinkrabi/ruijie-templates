@@ -1,0 +1,64 @@
+Value INTERFACE (\w+\s+(\d+\/)+\S+|\w+\s+\d+)
+Value LINK_STATUS (.+?)
+Value PROTOCOL_STATUS (.+?)
+Value HARDWARE_TYPE ([\w ]+)
+Value ADDRESS ([a-fA-F0-9]{4}\.[a-fA-F0-9]{4}\.[a-fA-F0-9]{4})
+Value BIA ([a-fA-F0-9]{4}\.[a-fA-F0-9]{4}\.[a-fA-F0-9]{4})
+Value DESCRIPTION (.+?)
+Value IP_ADDRESS (\d+\.\d+\.\d+\.\d+\/\d+|no ip address)
+Value List IP_ADDRESS_SEC (\d+\.\d+\.\d+\.\d+\/\d+)
+Value List IP_ADDRESS_V6 (\S+:\S+\/\d+|No IPv6 address)
+Value MTU (\d+)
+Value DELAY_UP (\d+)
+Value DELAY_DOWN (\d+)
+Value LAST_CHANGE (.+)
+Value MEDIUM_TYPE (Fiber|Copper)
+Value DUPLEX (([Ff]ull|[Aa]uto|AUTO[Hh]alf|Unknown|[Aa]-).*?)
+Value SPEED (.*?)
+Value BANDWIDTH (\d+\s+\w+)
+Value ENCAPSULATION (.+?)
+Value INPUT_PEEAK_RATE (\d+)
+Value OUTPUT_PEEAK_RATE (\d+)
+Value INPUT_RATE (\d+)
+Value OUTPUT_RATE (\d+)
+Value INPUT_PACKETS (\d+)
+Value OUTPUT_PACKETS (\d+)
+Value INPUT_ERRORS (\d+)
+Value CRC (\d+)
+Value ABORT (\d+)
+Value OUTPUT_ERRORS (\d+)
+
+Start
+  ^========================== -> Continue.Record
+  ^.*?${INTERFACE}\s+is\s+${LINK_STATUS}\s+,\s+line\s+protocol\s+is\s+${PROTOCOL_STATUS}\s*$$
+  ^.*?Hardware\s+is\s+${HARDWARE_TYPE} -> Continue
+  ^.+address\s+is\s+${ADDRESS}\s+\(bia\s+${BIA}\)\s*$$
+  ^.*?Description:\s+${DESCRIPTION}\s*$$
+  ^.*?Interface\s+address\s+is:\s+${IP_ADDRESS}\s*$$
+  ^.*?Secondary\s+address:\s+${IP_ADDRESS_SEC}$$
+  ^.*?${IP_ADDRESS_V6}\s*$$
+  ^.*?MTU\s+${MTU}.*BW\s+${BANDWIDTH}\s*$$
+  ^.*?Encapsulation\s+protocol\s+is\s+${ENCAPSULATION},.+$$
+  ^.*?Carrier\s+delay\s+is\s+${DELAY_UP}\s+sec\s*$$ -> Continue
+  ^.*?Carrier\s+delay\s+is\s+${DELAY_DOWN}\s+sec\s*$$
+  ^.*?Carrier\s+delay\s+up\s+is\s+${DELAY_UP}\s+sec,\s+down\s+is\s+${DELAY_DOWN}\s+sec\s*$$
+  ^.*?Last\s+link\s+state\s+change\s+time:\s+${LAST_CHANGE}\s*$$
+  ^.*?Medium-type\s+is\s+${MEDIUM_TYPE}\s*$$
+  ^.*?oper\s+duplex\s+is\s+${DUPLEX}\s*$$
+  ^.*?oper\s+speed\s+is\s+${SPEED}\s*$$
+  ^.*?Input\s+peak\s+rate:\s+${INPUT_PEEAK_RATE}.+$$
+  ^.*?Output\s+peak\s+rate:\s+${OUTPUT_PEEAK_RATE}.+$$
+  ^.*?input\s+rate\s+${INPUT_RATE}.+$$
+  ^.*?output\s+rate\s+${OUTPUT_RATE}.+$$
+  ^.*?${INPUT_PACKETS}\s+packets\s+input,\s+\d+\s+bytes,\s+\d+\s+no\s+buffer,\s+\d+\s+dropped\s*$$
+  ^.*?${INPUT_ERRORS}\s+input\s+errors,\s+${CRC}\s+CRC,\s+\d+\s+frame,\s+\d+\s+overrun,\s+${ABORT}\s+abort\s*$$
+  ^.*?${OUTPUT_PACKETS}\s+packets\s+output,\s+\d+\s+bytes,\s+\d+\s+underruns\s*,\s+\d+\s+no\s+buffer,\s+\d+\s+dropped\s*$$
+   #匹配5750h产品
+  ^.*?${OUTPUT_PACKETS}\s+packets\s+output,\s+\d+\s+bytes,\s+\d+\s+underruns\s*,\s+\d+\s+dropped\s*$$
+  ^.*?${OUTPUT_ERRORS}\s+output\s+errors,\s+\d+\s+collisions,\s+\d+\s+interface\s+resets\s*$$
+  #匹配子接口速率
+  ^.*?Input\s+packets\s+${INPUT_PACKETS}.+$$
+  ^.*?Output\s+packets\s+${OUTPUT_PACKETS}.+$$
+  #匹配开启接口统计场景
+  ^.*?Input:\s+${INPUT_PACKETS}\s+packets.+$$
+  ^.*?Output:\s+${OUTPUT_PACKETS}\s+packets.+$$

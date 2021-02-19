@@ -1,0 +1,10 @@
+Value TIME (.+)
+Value METHOD (\w+)
+Value PACKAGE_NAME (\S+)
+Value PACKAGE_TYPE (\w+)
+
+Start
+  ^\s+Time\s+:\s+${TIME}
+  ^\s+Method\s+:\s+${METHOD}
+  ^\s+Package\s+Name\s+:\s+${PACKAGE_NAME}
+  ^\s+Package\s+Type\s+:\s+${PACKAGE_TYPE} -> Record

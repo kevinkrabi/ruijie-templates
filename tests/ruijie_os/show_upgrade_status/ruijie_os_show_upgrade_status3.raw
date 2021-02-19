@@ -1,0 +1,30 @@
+ESR1#show upgrade status 
+upgrade global status: INIT
+[Slot M2]
+        Device type     : cax-x86-cm
+        Status          : skipped
+        Reason          : The version in device is same
+[Slot 1]
+        Device type     : m18000x-48cq
+        Status          : skipped
+        Reason          : The version in device is same
+[Slot 2]
+        Device type     : m18000x-48cq
+        Status          : skipped
+        Reason          : The version in device is same
+[Slot 8]
+        Device type     : cax-x86-lc
+        Status          : skipped
+        Reason          : The version in device is same
+[Slot FE3]
+        Device type     : m18010x-fe
+        Status          : skipped
+        Reason          : The version in device is same
+[Slot FE6]
+        Device type     : m18010x-fe
+        Status          : skipped
+        Reason          : The version in device is same
+[Slot M1]
+        Device type     : cax-x86-cm
+        Status          : skipped
+        Reason          : The version in device is same

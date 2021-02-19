@@ -1,0 +1,17 @@
+Value INTERFACE (\w+\s+(\d+\/)+\S+)
+Value TRAN_STATUS (the transceiver is absent!|This module doesn\'t support DDM!)
+Value TRAN_TPYPE (\S.*?)
+Value CONNECTOR_TYPE (\S.*?)
+Value WAVELENGTH (\S.*?)
+Value SN (\S.*?)
+
+Start
+  ^======== -> Continue.Record
+  ^========Interface\s+${INTERFACE}========
+  #识别到没插入模块，直接读取下一行重新比较，status为空说明光模块有输出，否则记录提示信息
+  ^.*${TRAN_STATUS}
+  ^Transceiver\s+Type\s+:\s+${TRAN_TPYPE}\s*$$
+  ^Connector\s+Type\s+:\s+${CONNECTOR_TYPE}\s*$$
+  ^Wavelength\(nm\)\s+:\s+${WAVELENGTH}\s*$$
+  ^Vendor\s+Serial\s+Number\s+:\s+${SN}\s*$$
+  #该模板不抓取光衰值，如需获取光衰信息，请参考show interfaces transceiver diagnosis命令

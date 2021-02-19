@@ -1,0 +1,38 @@
+MC1#show ip community-list 
+Named Community standard list AAA-Idc-Private-Routing-Local
+    permit 64999:8001 64999:30117 64999:41000
+Named Community standard list AAA-Idc-Public-Routing-Local
+    permit 64999:8000 64999:10117 64999:21000
+Named Community standard list AAA-Man-Private-Routing-Local
+    permit 64996:30199 64999:30117 64999:41000
+Named Community standard list BBB-Idc-Private-Routing-Local
+    permit 64999:8001 64999:30118 64999:42000
+Named Community standard list BBB-Idc-Public-Routing-Local
+    permit 64999:8000 64999:10118 64999:22000
+Named Community standard list BBB-Man-Private-Routing-Local
+    permit 0:60199 64999:30118 64999:42000
+    permit 64996:30199 64999:30118 64999:42000
+Named Community standard list CCC-Idc-Private-Routing-Local
+    permit 64999:8001 64999:30146 64999:43000
+Named Community standard list CCC-Idc-Public-Routing-Local
+    permit 64999:8000 64999:10146 64999:23000
+Named Community standard list CCC-Man-Private-Routing-Local
+    permit 64996:30199 64999:30146 64999:43000
+Named Community standard list DDD-Private-Routing
+    permit 64999:8001
+Named Community standard list DDD-Public-Routing
+    permit 64999:8000
+Named Community standard list EEE-Private-Vip
+    permit 64999:8020 64999:30199
+Named Community standard list EEE-Public-Vip
+    permit 64999:8020 64999:10199
+Named Community standard list vb_com
+    permit 100:1
+Named Community standard list vrf1_pri_com
+    permit 100:2
+Named Community standard list vrf1_pub_com
+    permit 100:1
+Named Community standard list vrf2_pri_com
+    permit 200:2
+Named Community standard list vrf2_pub_com
+    permit 200:1

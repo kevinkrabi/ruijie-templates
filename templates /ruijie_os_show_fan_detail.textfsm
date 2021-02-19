@@ -1,0 +1,13 @@
+Value FAN_ID (\d\S*)
+Value FAN_TYPE (\S+( \S+)*)
+Value SN (\S*)
+Value STATUS (\w+)
+Value MODE (\w+)
+
+Start
+  ^Fan-id: -> Continue.Record
+  ^Fan-id:\s+${FAN_ID}
+  ^\s+Fan-type:\s+${FAN_TYPE}
+  ^\s+Serial\s+Number:\s+${SN}
+  ^\s+Status:\s+${STATUS}
+  ^\s+Mode:\s+${MODE}

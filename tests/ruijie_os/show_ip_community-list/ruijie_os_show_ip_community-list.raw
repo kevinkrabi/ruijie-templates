@@ -1,0 +1,12 @@
+Named Community standard list GW
+    permit 64997:8021
+    permit 64997:8022
+    permit 64997:8023
+    permit 64997:8024
+    permit 64997:8025
+Named Community standard list GWv6
+    permit 64997:8021
+    permit 64997:8022
+    permit 64997:8023
+    permit 64997:8024
+    permit 64997:8025

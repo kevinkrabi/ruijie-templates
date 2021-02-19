@@ -1,0 +1,25 @@
+ASW8-B9P43S1#show mac-address-table 
+Vlan        MAC Address          Type     Interface
+----------  -------------------- -------- ------------------------------
+  10        0010.9400.000f       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0001       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0002       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0003       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0004       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0005       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0006       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0007       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0008       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0009       DYNAMIC  AggregatePort 1                
+  10        0030.9400.000a       DYNAMIC  AggregatePort 1                
+  10        0030.9400.000b       DYNAMIC  AggregatePort 1                
+  10        0030.9400.000c       DYNAMIC  AggregatePort 1                
+  10        0030.9400.000d       DYNAMIC  AggregatePort 1                
+  10        0030.9400.000e       DYNAMIC  AggregatePort 1                
+  10        0030.9400.000f       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0010       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0011       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0012       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0013       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0014       DYNAMIC  AggregatePort 1                
+  10        0030.9400.0015       DYNAMIC  AggregatePort 1                

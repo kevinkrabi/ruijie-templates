@@ -1,0 +1,84 @@
+S6910-3C#show manuinfo 
+Device 1
+    Location:                    Chassis
+    Device name:                 RG-S6910-3C
+    Device Serial Number:        G1NW428000027
+    Hardware Version:            1.00
+    Mac Address:                 f000.0100.0002
+
+Device 2
+    Location:                    Slot-0
+    Device name:                 RG-S6910-3C
+    Device Serial Number:        G1NW428000027
+    Hardware Version:            1.00
+    Software Version:            S6910_RGOS 12.4(1)B0201
+    Mac Address:                 f000.0100.0000
+
+Device 3
+    Location:                    Slot-1
+    Device name:                 M6900-32CQ
+    Device Serial Number:        G1NW527000107
+    Hardware Version:            2.00
+    Software Version:            N/A
+
+Device 4
+    Location:                    Slot-2
+    Device name:                 M6900-32CQ
+    Device Serial Number:        G1NW527000174
+    Hardware Version:            2.00
+    Software Version:            N/A
+
+Device 5
+    Location:                    Slot-3
+    Device name:                 M6900-32CQ
+    Device Serial Number:        1000000000014
+    Hardware Version:            2.00
+    Software Version:            N/A
+
+Device 6
+    Location:                    Power 1
+    Device name:                 RG-PA1200I-F
+    Device Serial Number:         S9261001105         
+    Hardware Version:            10
+
+Device 7
+    Location:                    Power 2
+    Device name:                 RG-PA1200I-F
+    Device Serial Number:        JIAD1913001479       
+    Hardware Version:            00
+
+Device 8  
+    Location:                    FAN 1
+    Device name:                 M2EFAN I-F
+    Device Serial Number:        G1NW416001399
+    Hardware Version:            1.00
+
+Device 9
+    Location:                    FAN 2
+    Device name:                 M2EFAN I-F
+    Device Serial Number:        G1NW416001357
+    Hardware Version:            1.00
+
+Device 10
+    Location:                    FAN 3
+    Device name:                 M2EFAN I-F
+    Device Serial Number:        G1NW416001382
+    Hardware Version:            1.00
+
+Device 11
+    Location:                    FAN 4
+    Device name:                 M2EFAN I-F
+    Device Serial Number:        G1NW416001095
+    Hardware Version:            1.00
+
+Device 12 
+    Location:                    FAN 5
+    Device name:                 M2EFAN I-F
+    Device Serial Number:        G1NW41600130B
+    Hardware Version:            1.00
+
+Device 13
+    Location:                    FAN 6
+    Device name:                 M2EFAN I-F
+    Device Serial Number:        G1NW416001412
+    Hardware Version:            1.00

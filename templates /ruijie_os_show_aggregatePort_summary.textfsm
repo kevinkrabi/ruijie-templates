@@ -1,0 +1,27 @@
+Value Required AGGPORT (Ag\d+)
+Value MAXPORTS (\d+)
+Value SWITCHPORT (Enabled|Disabled)
+Value MODE (ACCESS|TRUNK)
+Value LOADBALANCE (enhanced profile|\S+)
+Value List PORTS (\w+\s*(\d+\/)*\S+)
+
+Start
+  #不同产品load balance字段有差异，需要使用不同模板匹配
+  ^AggregatePort\s+MaxPorts\s+SwitchPort\s+Mode\s+Load\s+balance\s+Ports -> SW1
+  ^AggregatePort\s+MaxPorts\s+SwitchPort\s+Mode\s+Ports -> SW2
+
+SW1
+  ^Ag\d+ -> Continue.Record
+  ^${AGGPORT}\s+${MAXPORTS}\s+${SWITCHPORT}\s+${MODE}?\s+${LOADBALANCE}\s+ -> Continue
+  ^.{70}${PORTS} -> Continue
+  ^.{70}(\S{5,}\s*),${PORTS} -> Continue
+  ^.{70}(\S{5,}\s*){2},${PORTS} -> Continue
+  ^.{70}(\S{5,}\s*){3},${PORTS} -> Continue
+
+SW2
+  ^Ag\d+ -> Continue.Record
+  ^${AGGPORT}\s+${MAXPORTS}\s+${SWITCHPORT}\s+${MODE}?\s+ -> Continue
+  ^.{41}${PORTS} -> Continue
+  ^.{41}(\S{5,}\s*),${PORTS} -> Continue
+  ^.{41}(\S{5,}\s*){2},${PORTS} -> Continue
+  ^.{41}(\S{5,}\s*){3},${PORTS} -> Continue

@@ -1,0 +1,7 @@
+Value ADDRESS (\S+)
+Value MAC (\S+)
+Value INTERFACE (\w+\s*(\d+\/)*\S+)
+
+Start
+  #^IPv6\s+Address\s+Link-layer\s+Addr\s+Interface\s*$$
+  ^${ADDRESS}\s+${MAC}\s+${INTERFACE}\s*$$ -> Record

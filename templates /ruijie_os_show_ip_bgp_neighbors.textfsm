@@ -1,0 +1,19 @@
+#可能会通过ipv6建立邻居会话，因此需要考虑ipv6的情况
+Value NEIGHBOR ([0-9a-f:\.]+)
+Value REMOTE_AS (\d+|\d+\.\d+)
+Value PEER_GROUP (\S+)
+Value REMOTE_ROUTER_ID ([0-9a-f:\.]+)
+Value BGP_STATE (\w+)
+Value LOCALHOST_IP (\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})
+Value LOCALHOST_PORT (\d+)
+Value REMOTE_IP (\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})
+Value REMOTE_PORT (\d+)
+
+Start
+  ^BGP\s+neighbor\s+is -> Continue.Record
+  ^BGP\s+neighbor\s+is\s+${NEIGHBOR},\s+remote\s+AS\s+${REMOTE_AS}
+  ^\s*Member\s+of\s+peer-group\s+${PEER_GROUP}
+  ^.+remote\s+router\s+ID\s+${REMOTE_ROUTER_ID}
+  ^\s+BGP\s+state\s+=\s+${BGP_STATE}
+  ^Local\s+host:\s+${LOCALHOST_IP},\s+Local\s+port:\s+${LOCALHOST_PORT}
+  ^Foreign\s+host:\s+${REMOTE_IP},\s+Foreign\s+port:\s+${REMOTE_PORT}

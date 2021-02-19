@@ -1,0 +1,45 @@
+ASW#sh lldp neighbors 
+Capability codes:
+    (R) Router, (B) Bridge, (T) Telephone, (C) DOCSIS Cable Device
+    (W) WLAN Access Point, (P) Repeater, (S) Station, (O) Other
+System Name                 Local Intf          Port ID                     Capability   Aging-time
+CLOUDAP(7B5Lg3b3UfhwPlQABqdk)Gi1/0/1             80a2.35f4.b5a0              B, W, R, S   1minutes 39seconds 
+CLOUDAP(Aoj06Qv00CPcfzd22USk)Gi1/0/2             80a2.35f0.a190              B, W, R, S   1minutes 35seconds 
+CLOUDAP(fEQTWwqQZKBqxcCCsu5n)Gi1/0/3             80a2.35f2.2e80              B, W, R, S   1minutes 33seconds 
+CLOUDAP(SSP80aH0Zx1eHhbMQsRy)Gi1/0/4             80a2.35f0.a560              B, W, R, S   1minutes 41seconds 
+CLOUDAP(8q2cW9HDRVPFTij7L1oV)Gi1/0/5             80a2.35f0.a8a0              B, W, R, S   1minutes 55seconds 
+CLOUDAP(NUElGjyBXbKj8ZC4GVCp)Gi1/0/6             80a2.35f2.1940              B, W, R, S   1minutes 31seconds 
+CLOUDAP(7sOaT76bXBvT0XJutwJs)Gi1/0/7             80a2.35f2.2e10              B, W, R, S   1minutes 37seconds 
+CLOUDAP(UvJhmj3fFRIZmFJixLEw)Gi1/0/8             80a2.35f4.b940              B, W, R, S   1minutes 32seconds 
+CLOUDAP(9tP3c2giMoasEi49EQKj)Gi1/0/9             80a2.35f2.1a00              B, W, R, S   1minutes 33seconds 
+CLOUDAP(cK5P5xaPOe3fDzMYTCwI)Gi1/0/10            80a2.35f4.b690              B, W, R, S   1minutes 47seconds 
+CLOUDAP(B77lkyW3vSVV1koos68K)Gi1/0/11            80a2.35f2.1ce0              B, W, R, S   1minutes 34seconds 
+CLOUDAP(JVecm11xyXKoiKfb6Wbv)Gi1/0/12            80a2.35f2.2970              B, W, R, S   1minutes 38seconds 
+CLOUDAP(FNTrct1q2xAEmobKpWHW)Gi1/0/13            80a2.35f4.bdb0              B, W, R, S   1minutes 34seconds 
+CLOUDAP(BGeLvGzXlIJd6ovfRYQA)Gi1/0/15            80a2.35f4.b510              B, W, R, S   1minutes 39seconds 
+CLOUDAP(veGBqypd9yrIU1YOGwNc)Gi1/0/16            80a2.35f2.33b0              B, W, R, S   2minutes 
+PSW                          Te1/0/51            Te3/1                       B, R         1minutes 59seconds 
+CLOUDAP(lPQks6PYYR6hfTcesBOG)Gi2/0/2             80a2.35f4.bc70              B, W, R, S   1minutes 58seconds 
+CLOUDAP(eg4D3TzzHSLbW8xpLYjV)Gi2/0/3             80a2.35f2.1c90              B, W, R, S   1minutes 42seconds 
+CLOUDAP(kZsWfp5VW0XrpciomD6F)Gi2/0/5             80a2.35f4.b700              B, W, R, S   1minutes 55seconds 
+CLOUDAP(4n4GiqVKNs0TN0jgte7e)Gi2/0/6             80a2.35f2.1910              B, W, R, S   1minutes 55seconds 
+CLOUDAP(HNtqu25XK7qXYgtwfD5M)Gi2/0/7             80a2.35f2.2bc0              B, W, R, S   1minutes 46seconds 
+CLOUDAP(CdoqezV8UZ00REC38b2K)Gi2/0/8             80a2.35f4.b6a0              B, W, R, S   1minutes 26seconds 
+CLOUDAP(AgrYsKsf1Tbip3VaW9wt)Gi2/0/10            80a2.35f2.33e0              B, W, R, S   1minutes 59seconds 
+CLOUDAP(LmpsrjAPgcQbskYiRDsN)Gi2/0/11            80a2.35f2.3660              B, W, R, S   1minutes 53seconds 
+CLOUDAP(xKIrWmpnjPticlxnaouy)Gi2/0/12            80a2.35f0.bd50              B, W, R, S   1minutes 55seconds 
+CLOUDAP(CQBl1RluPyvy8xX0V7IP)Gi2/0/13            80a2.35f0.aa30              B, W, R, S   1minutes 57seconds 
+CLOUDAP(t9Fafqo8ctZBumHRkBaP)Gi2/0/14            80a2.35f0.a990              B, W, R, S   1minutes 48seconds 
+CLOUDAP(I8gSZgkkSQsxEB8a552t)Gi2/0/15            80a2.35f2.1f40              B, W, R, S   1minutes 31seconds 
+
+DSW                         Gi1/0/47            TenGigabitEthernet 1/0/2P, B, R      1minutes 51seconds 
+Unknown                     Gi2/0/3             f875.a4c2.de61                       57minutes 9seconds 
+Unknown                     Gi2/0/4             f875.a4d7.5ed3                       45minutes 33seconds 
+Unknown                     Gi2/0/5             f875.a4c2.de68                       56minutes 55seconds 
+Unknown                     Gi2/0/6             002b.6722.39b0                       50minutes 47seconds 
+Unknown                     Gi2/0/7             c8d9.d212.3cda                       57minutes 10seconds 
+Unknown                     Gi2/0/10            1860.24b2.a649                       44minutes 28seconds 
+SEP6C5E3B291388.hz.ali.com  Gi2/0/24            6C5E3B291388:P1         T            2minutes 31seconds 
+SEP6C5E3B29191C.hz.ali.com  Gi2/0/28            6C5E3B29191C:P1         T            2minutes 15seconds 
+SEP6C5E3B291688.hz.ali.com  Gi2/0/29            6C5E3B291688:P1         T            2minutes 45seconds 
+

@@ -1,0 +1,11 @@
+Value Required ADDRESS (\d+(\.\d+){3})
+Value AGE (\S+)
+Value MAC (\S+)
+Value TYPE (Local|Dynamic)
+Value INTERFACE (\S+\s*\S+)
+Value PORT (\S+)
+Value SUBVLAN (\S+)
+
+Start
+  ^${ADDRESS}\s+${MAC}\s+${TYPE}\s+${AGE}\s+${INTERFACE}\s+${PORT}\s+\S+\s*$$ -> Record
+  ^${ADDRESS}\s+${MAC}\s+${TYPE}\s+${AGE}\s+${INTERFACE}\s+${PORT}\s*$$ -> Record

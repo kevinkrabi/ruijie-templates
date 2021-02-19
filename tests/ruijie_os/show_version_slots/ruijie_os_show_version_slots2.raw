@@ -1,0 +1,5 @@
+ASW1#show ver slot
+  Dev Slot Port Configured Module            Online Module                Software Status
+  --- ---- ---- ---------------------------- ---------------------------- ---------------
+  1   0    78   RG-S6220-48XS6QXS-H          RG-S6220-48XS6QXS-H          master         
+  2   0    78   RG-S6220-48XS6QXS-H          RG-S6220-48XS6QXS-H          backup         

@@ -1,0 +1,34 @@
+Value Filldown PROTOCOL (\w)
+Value Filldown TYPE (\w{0,2})
+Value Required,Filldown NETWORK (\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3})
+Value Filldown MASK (\d{1,2})
+Value DISTANCE (\d+)
+Value METRIC (\d+)
+Value NEXTHOP_IP (\d{1,3}.\d{1,3}.\d{1,3}.\d{1,3})
+Value NEXTHOP_IF ([A-Z]\S+\s\S+)
+Value UPTIME ((\d+d,)?[\w:\.]+)
+
+Start
+  ^Gateway.* -> Routes
+
+Routes
+  # 匹配直连路由
+  ^${PROTOCOL}(\s|\*)${TYPE}\s+${NETWORK}\/${MASK}\sis\sdirectly\sconnected,\s${NEXTHOP_IF} -> Record
+  #
+  # 匹配常规路由
+  ^${PROTOCOL}(\s|\*)${TYPE}\s+${NETWORK}\/${MASK}\s\[${DISTANCE}/${METRIC}\]\svia\s${NEXTHOP_IP}(,\s${UPTIME})?(,\s${NEXTHOP_IF})? -> Record
+  #
+  # 匹配没有下一跳的路由条目，路由汇总自动产生的null0路由，比如：
+  #
+  #^${PROTOCOL}(\s|\*)${TYPE}\s+${NETWORK}\/${MASK}\s\[${DISTANCE}/${METRIC}\],\s${UPTIME},\s${NEXTHOP_IF} -> Record
+  #
+  # Match "is a summary" routes (often Null0)BGP产生的汇总路由？
+  #^${PROTOCOL}(\s|\*)${TYPE}\s+${NETWORK}\/${MASK}\sis\sa\ssummary,\s${UPTIME},\s${NEXTHOP_IF} -> Record
+  #
+  # ECMP路由
+  ^\s+\[${DISTANCE}\/${METRIC}\]\svia\s${NEXTHOP_IP}(,\s${UPTIME})?(,\s${NEXTHOP_IF})? -> Record
+  #
+  # 匹配空行清空所有变量
+  ^\s* -> Clearall
+
+EOF

@@ -1,0 +1,22 @@
+Value Required INTERFACE (\w+\s*(\d+\/)*\S+)
+Value SWITCHPORT (enabled|disabled)
+Value MODE (ACCESS|TRUNK)
+Value ACCESS (\d+)
+Value NATIVE (\d+)
+Value PROTECTED (Disabled|Enabled)
+Value List VLAN_LISTS ([\d\-]+|ALL)
+
+Start
+  ^\S+ -> Continue.Record
+  ^${INTERFACE}\s+${SWITCHPORT}\s+${MODE}?\s+${ACCESS}?\s+${NATIVE}?\s+${PROTECTED} -> Continue
+  ^.{78}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,)${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){2}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){3}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){4}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){5}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){6}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){7}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){8}${VLAN_LISTS} -> Continue
+  ^.{78}([\d\-]+,){9}${VLAN_LISTS} -> Continue
+  #vlan list存在多行现象，需要考虑匹配多行

@@ -1,0 +1,18 @@
+---
+parsed_sample:
+  - time: "2000-05-09 08:32:35"
+    package_type: "MAIN"
+    package_name: "6910.bin"
+    method: "LOCAL"
+  - time: "2000-05-13 01:41:41"
+    package_type: "MAIN"
+    package_name: "RGOS12.x(master)_install_10-15.bin"
+    method: "LOCAL"
+  - time: "2000-05-13 02:16:22"
+    package_type: "MAIN"
+    package_name: "RGOS12.x(master)_install11-14.bin"
+    method: "LOCAL"
+  - time: "2000-05-13 02:18:47"
+    package_type: "MAIN"
+    package_name: "RGOS12.x(master)_install11-14.bin"
+    method: "LOCAL"

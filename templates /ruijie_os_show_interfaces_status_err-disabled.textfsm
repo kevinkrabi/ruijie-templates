@@ -1,0 +1,7 @@
+Value Required INTERFACE (\S+\s+\S+)
+Value STATUS (\S+)
+Value REASON (\S.*?)
+
+Start
+  ^Interface\s+Status\s+Reason
+  ^${INTERFACE}\s+${STATUS}\s+${REASON}\s*$$ -> Record

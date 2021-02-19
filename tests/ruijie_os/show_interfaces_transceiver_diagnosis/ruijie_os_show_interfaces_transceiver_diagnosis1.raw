@@ -1,0 +1,738 @@
+
+
+========Interface FortyGigabitEthernet 5/1========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+23(OK)          3.34(OK)        6.84(OK)[C1]        -2.19(OK)[C1/AP]    -0.78(OK)[C1]
+                                6.97(OK)[C2]        -1.57(OK)[C2/AP]    -0.43(OK)[C2]
+                                6.84(OK)[C3]        -1.64(OK)[C3/AP]    -0.77(OK)[C3]
+                                6.84(OK)[C4]        -1.54(OK)[C4/AP]    -1.02(OK)[C4]
+
+========Interface FortyGigabitEthernet 5/2========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+23(OK)          3.34(OK)        6.78(OK)[C1]        -2.32(OK)[C1/AP]    -2.01(OK)[C1]
+                                6.91(OK)[C2]        -1.99(OK)[C2/AP]    -1.47(OK)[C2]
+                                6.84(OK)[C3]        -1.20(OK)[C3/AP]    -0.90(OK)[C3]
+                                6.78(OK)[C4]        -1.98(OK)[C4/AP]    -1.88(OK)[C4]
+
+========Interface FortyGigabitEthernet 5/3========
+Interface FortyGigabitEthernet 5/3 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/4========
+Interface FortyGigabitEthernet 5/4 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/5========
+Interface FortyGigabitEthernet 5/5 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/6========
+Interface FortyGigabitEthernet 5/6 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/7========
+Interface FortyGigabitEthernet 5/7 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/8========
+Interface FortyGigabitEthernet 5/8 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/9========
+Interface FortyGigabitEthernet 5/9 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/10========
+Interface FortyGigabitEthernet 5/10 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/11========
+Interface FortyGigabitEthernet 5/11 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/12========
+Interface FortyGigabitEthernet 5/12 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/13========
+Interface FortyGigabitEthernet 5/13 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/14========
+Interface FortyGigabitEthernet 5/14 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/15========
+Interface FortyGigabitEthernet 5/15 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/16========
+Interface FortyGigabitEthernet 5/16 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/17========
+Interface FortyGigabitEthernet 5/17 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/18========
+Interface FortyGigabitEthernet 5/18 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/19========
+Interface FortyGigabitEthernet 5/19 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/20========
+Interface FortyGigabitEthernet 5/20 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/21========
+Interface FortyGigabitEthernet 5/21 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/22========
+Interface FortyGigabitEthernet 5/22 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/23========
+Interface FortyGigabitEthernet 5/23 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/24========
+Interface FortyGigabitEthernet 5/24 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/25========
+Interface FortyGigabitEthernet 5/25 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/26========
+Interface FortyGigabitEthernet 5/26 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/27========
+Interface FortyGigabitEthernet 5/27 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/28========
+Interface FortyGigabitEthernet 5/28 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/29========
+Interface FortyGigabitEthernet 5/29 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/30========
+Interface FortyGigabitEthernet 5/30 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/31========
+Interface FortyGigabitEthernet 5/31 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/32========
+Interface FortyGigabitEthernet 5/32 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/33========
+Interface FortyGigabitEthernet 5/33 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/34========
+Interface FortyGigabitEthernet 5/34 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/35========
+Interface FortyGigabitEthernet 5/35 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 5/36========
+Interface FortyGigabitEthernet 5/36 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/1========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+23(OK)          3.32(OK)        6.65(OK)[C1]        -1.26(OK)[C1/AP]    -1.73(OK)[C1]
+                                6.84(OK)[C2]        -1.60(OK)[C2/AP]    -1.60(OK)[C2]
+                                6.72(OK)[C3]        -0.38(OK)[C3/AP]    -1.98(OK)[C3]
+                                6.78(OK)[C4]        -0.62(OK)[C4/AP]    -1.91(OK)[C4]
+
+========Interface FortyGigabitEthernet 6/2========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+23(OK)          3.32(OK)        6.72(OK)[C1]        -1.95(OK)[C1/AP]    -1.59(OK)[C1]
+                                6.84(OK)[C2]        -2.40(OK)[C2/AP]    -1.12(OK)[C2]
+                                6.91(OK)[C3]        -1.05(OK)[C3/AP]    -0.51(OK)[C3]
+                                6.91(OK)[C4]        -1.93(OK)[C4/AP]    -1.40(OK)[C4]
+
+========Interface FortyGigabitEthernet 6/3========
+Interface FortyGigabitEthernet 6/3 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/4========
+Interface FortyGigabitEthernet 6/4 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/5========
+Interface FortyGigabitEthernet 6/5 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/6========
+Interface FortyGigabitEthernet 6/6 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/7========
+Interface FortyGigabitEthernet 6/7 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/8========
+Interface FortyGigabitEthernet 6/8 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/9========
+Interface FortyGigabitEthernet 6/9 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/10========
+Interface FortyGigabitEthernet 6/10 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/11========
+Interface FortyGigabitEthernet 6/11 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/12========
+Interface FortyGigabitEthernet 6/12 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/13========
+Interface FortyGigabitEthernet 6/13 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/14========
+Interface FortyGigabitEthernet 6/14 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/15========
+Interface FortyGigabitEthernet 6/15 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/16========
+Interface FortyGigabitEthernet 6/16 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/17========
+Interface FortyGigabitEthernet 6/17 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/18========
+Interface FortyGigabitEthernet 6/18 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/19========
+Interface FortyGigabitEthernet 6/19 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/20========
+Interface FortyGigabitEthernet 6/20 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/21========
+Interface FortyGigabitEthernet 6/21 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/22========
+Interface FortyGigabitEthernet 6/22 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/23========
+Interface FortyGigabitEthernet 6/23 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/24========
+Interface FortyGigabitEthernet 6/24 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/25========
+Interface FortyGigabitEthernet 6/25 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/26========
+Interface FortyGigabitEthernet 6/26 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/27========
+Interface FortyGigabitEthernet 6/27 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/28========
+Interface FortyGigabitEthernet 6/28 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/29========
+Interface FortyGigabitEthernet 6/29 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/30========
+Interface FortyGigabitEthernet 6/30 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/31========
+Interface FortyGigabitEthernet 6/31 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/32========
+Interface FortyGigabitEthernet 6/32 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/33========
+Interface FortyGigabitEthernet 6/33 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/34========
+Interface FortyGigabitEthernet 6/34 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/35========
+Interface FortyGigabitEthernet 6/35 : the transceiver is absent!
+
+========Interface FortyGigabitEthernet 6/36========
+Interface FortyGigabitEthernet 6/36 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/1========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+47(OK)          3.29(OK)        43.64(OK)[C1]       0.66(OK)[C1/AP]     1.12(OK)[C1]
+                                44.09(OK)[C2]       0.55(OK)[C2/AP]     1.19(OK)[C2]
+                                44.27(OK)[C3]       0.82(OK)[C3/AP]     1.04(OK)[C3]
+                                44.18(OK)[C4]       0.89(OK)[C4/AP]     1.05(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/2========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+49(OK)          3.28(OK)        46.46(OK)[C1]       0.09(OK)[C1/AP]     0.54(OK)[C1]
+                                46.65(OK)[C2]       1.10(OK)[C2/AP]     0.77(OK)[C2]
+                                42.31(OK)[C3]       1.05(OK)[C3/AP]     1.23(OK)[C3]
+                                40.34(OK)[C4]       2.52(warning)[C4/AP]1.57(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/3========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+50(OK)          3.28(OK)        47.07(OK)[C1]       1.45(OK)[C1/AP]     0.39(OK)[C1]
+                                44.25(OK)[C2]       1.73(OK)[C2/AP]     1.10(OK)[C2]
+                                42.13(OK)[C3]       1.12(OK)[C3/AP]     1.41(OK)[C3]
+                                44.81(OK)[C4]       1.12(OK)[C4/AP]     1.06(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/4========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+51(OK)          3.28(OK)        42.73(OK)[C1]       0.49(OK)[C1/AP]     1.46(OK)[C1]
+                                46.29(OK)[C2]       0.75(OK)[C2/AP]     1.45(OK)[C2]
+                                42.71(OK)[C3]       1.43(OK)[C3/AP]     1.48(OK)[C3]
+                                47.85(OK)[C4]       1.84(OK)[C4/AP]     0.81(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/5========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+48(OK)          3.29(OK)        46.81(OK)[C1]       0.98(OK)[C1/AP]     0.36(OK)[C1]
+                                42.34(OK)[C2]       0.89(OK)[C2/AP]     0.62(OK)[C2]
+                                46.66(OK)[C3]       2.31(OK)[C3/AP]     0.99(OK)[C3]
+                                43.68(OK)[C4]       1.76(OK)[C4/AP]     0.75(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/6========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+52(OK)          3.27(OK)        43.93(OK)[C1]       -0.87(OK)[C1/AP]    0.70(OK)[C1]
+                                44.40(OK)[C2]       0.50(OK)[C2/AP]     1.09(OK)[C2]
+                                47.57(OK)[C3]       0.84(OK)[C3/AP]     0.69(OK)[C3]
+                                45.76(OK)[C4]       0.92(OK)[C4/AP]     1.08(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/7========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+49(OK)          3.25(OK)        46.81(OK)[C1]       0.39(OK)[C1/AP]     0.97(OK)[C1]
+                                44.17(OK)[C2]       -1.12(OK)[C2/AP]    0.97(OK)[C2]
+                                45.14(OK)[C3]       -0.28(OK)[C3/AP]    1.13(OK)[C3]
+                                46.55(OK)[C4]       1.74(OK)[C4/AP]     1.14(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/8========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+52(OK)          3.27(OK)        43.86(OK)[C1]       1.00(OK)[C1/AP]     1.11(OK)[C1]
+                                47.65(OK)[C2]       1.29(OK)[C2/AP]     1.01(OK)[C2]
+                                44.62(OK)[C3]       1.01(OK)[C3/AP]     0.76(OK)[C3]
+                                46.74(OK)[C4]       1.75(OK)[C4/AP]     1.30(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/9========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+50(OK)          3.27(OK)        47.19(OK)[C1]       0.91(OK)[C1/AP]     0.44(OK)[C1]
+                                45.51(OK)[C2]       1.09(OK)[C2/AP]     0.77(OK)[C2]
+                                47.24(OK)[C3]       0.96(OK)[C3/AP]     0.91(OK)[C3]
+                                47.01(OK)[C4]       0.96(OK)[C4/AP]     0.78(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/10========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+50(OK)          3.27(OK)        45.37(OK)[C1]       -2.02(OK)[C1/AP]    1.28(OK)[C1]
+                                47.89(OK)[C2]       -1.31(OK)[C2/AP]    0.90(OK)[C2]
+                                40.38(OK)[C3]       -0.20(OK)[C3/AP]    1.61(OK)[C3]
+                                40.00(OK)[C4]       -0.02(OK)[C4/AP]    1.65(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/11========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+48(OK)          3.26(OK)        42.81(OK)[C1]       1.81(OK)[C1/AP]     1.35(OK)[C1]
+                                46.84(OK)[C2]       1.61(OK)[C2/AP]     0.82(OK)[C2]
+                                46.49(OK)[C3]       1.30(OK)[C3/AP]     0.52(OK)[C3]
+                                43.98(OK)[C4]       2.12(OK)[C4/AP]     1.08(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/12========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+52(OK)          3.27(OK)        47.77(OK)[C1]       1.62(OK)[C1/AP]     -0.12(OK)[C1]
+                                46.13(OK)[C2]       1.02(OK)[C2/AP]     0.93(OK)[C2]
+                                47.93(OK)[C3]       0.81(OK)[C3/AP]     1.12(OK)[C3]
+                                44.37(OK)[C4]       1.17(OK)[C4/AP]     1.09(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/13========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+51(OK)          3.26(OK)        47.27(OK)[C1]       -0.45(OK)[C1/AP]    0.85(OK)[C1]
+                                46.56(OK)[C2]       0.06(OK)[C2/AP]     1.21(OK)[C2]
+                                45.85(OK)[C3]       1.43(OK)[C3/AP]     1.21(OK)[C3]
+                                47.20(OK)[C4]       0.80(OK)[C4/AP]     1.30(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/14========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+54(OK)          3.27(OK)        48.56(OK)[C1]       1.12(OK)[C1/AP]     0.00(OK)[C1]
+                                48.91(OK)[C2]       1.08(OK)[C2/AP]     -0.14(OK)[C2]
+                                48.56(OK)[C3]       1.36(OK)[C3/AP]     -0.30(OK)[C3]
+                                48.56(OK)[C4]       0.24(OK)[C4/AP]     -1.08(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/15========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+51(OK)          3.26(OK)        47.66(OK)[C1]       0.40(OK)[C1/AP]     0.52(OK)[C1]
+                                47.35(OK)[C2]       1.25(OK)[C2/AP]     0.04(OK)[C2]
+                                47.65(OK)[C3]       1.38(OK)[C3/AP]     -0.04(OK)[C3]
+                                47.59(OK)[C4]       0.07(OK)[C4/AP]     0.83(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/16========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+55(OK)          3.26(OK)        49.16(OK)[C1]       -0.00(OK)[C1/AP]    0.28(OK)[C1]
+                                48.03(OK)[C2]       0.96(OK)[C2/AP]     0.76(OK)[C2]
+                                47.16(OK)[C3]       1.24(OK)[C3/AP]     1.44(OK)[C3]
+                                49.09(OK)[C4]       0.97(OK)[C4/AP]     0.11(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/17========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+50(OK)          3.26(OK)        46.33(OK)[C1]       1.26(OK)[C1/AP]     0.61(OK)[C1]
+                                41.15(OK)[C2]       0.88(OK)[C2/AP]     1.32(OK)[C2]
+                                43.57(OK)[C3]       0.79(OK)[C3/AP]     1.31(OK)[C3]
+                                43.45(OK)[C4]       0.73(OK)[C4/AP]     1.36(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/18========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+53(OK)          3.26(OK)        48.47(OK)[C1]       0.66(OK)[C1/AP]     0.23(OK)[C1]
+                                46.80(OK)[C2]       1.70(OK)[C2/AP]     1.21(OK)[C2]
+                                42.68(OK)[C3]       1.38(OK)[C3/AP]     0.85(OK)[C3]
+                                47.59(OK)[C4]       0.48(OK)[C4/AP]     1.28(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/19========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+50(OK)          3.25(OK)        47.08(OK)[C1]       0.08(OK)[C1/AP]     0.12(OK)[C1]
+                                47.20(OK)[C2]       0.96(OK)[C2/AP]     -0.38(OK)[C2]
+                                47.30(OK)[C3]       0.54(OK)[C3/AP]     0.52(OK)[C3]
+                                47.35(OK)[C4]       0.55(OK)[C4/AP]     1.18(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/20========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+52(OK)          3.25(OK)        47.93(OK)[C1]       0.47(OK)[C1/AP]     0.58(OK)[C1]
+                                48.08(OK)[C2]       0.55(OK)[C2/AP]     1.08(OK)[C2]
+                                41.91(OK)[C3]       0.36(OK)[C3/AP]     1.00(OK)[C3]
+                                43.08(OK)[C4]       0.45(OK)[C4/AP]     1.36(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/21========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+48(OK)          3.26(OK)        46.15(OK)[C1]       1.12(OK)[C1/AP]     0.93(OK)[C1]
+                                41.04(OK)[C2]       1.30(OK)[C2/AP]     1.18(OK)[C2]
+                                42.29(OK)[C3]       0.70(OK)[C3/AP]     1.29(OK)[C3]
+                                34.00(OK)[C4]       0.90(OK)[C4/AP]     1.51(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/22========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+51(OK)          3.25(OK)        43.31(OK)[C1]       -4.63(OK)[C1/AP]    1.62(OK)[C1]
+                                47.39(OK)[C2]       -3.86(OK)[C2/AP]    1.30(OK)[C2]
+                                43.80(OK)[C3]       -3.14(OK)[C3/AP]    1.43(OK)[C3]
+                                47.51(OK)[C4]       -3.99(OK)[C4/AP]    0.24(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/23========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+49(OK)          3.25(OK)        40.53(OK)[C1]       -4.40(OK)[C1/AP]    1.48(OK)[C1]
+                                44.13(OK)[C2]       -3.82(OK)[C2/AP]    1.20(OK)[C2]
+                                44.46(OK)[C3]       -2.63(OK)[C3/AP]    1.12(OK)[C3]
+                                46.51(OK)[C4]       -2.35(OK)[C4/AP]    0.93(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/24========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+51(OK)          3.25(OK)        44.01(OK)[C1]       0.36(OK)[C1/AP]     1.07(OK)[C1]
+                                47.46(OK)[C2]       -0.17(OK)[C2/AP]    0.79(OK)[C2]
+                                47.46(OK)[C3]       0.63(OK)[C3/AP]     0.60(OK)[C3]
+                                42.20(OK)[C4]       0.62(OK)[C4/AP]     1.59(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/25========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+44(OK)          3.26(OK)        36.86(OK)[C1]       0.81(OK)[C1/AP]     1.57(OK)[C1]
+                                39.02(OK)[C2]       0.31(OK)[C2/AP]     0.85(OK)[C2]
+                                30.13(OK)[C3]       0.78(OK)[C3/AP]     0.11(OK)[C3]
+                                26.22(OK)[C4]       1.01(OK)[C4/AP]     -0.11(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/26========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+46(OK)          3.27(OK)        43.98(OK)[C1]       0.92(OK)[C1/AP]     0.96(OK)[C1]
+                                45.42(OK)[C2]       0.40(OK)[C2/AP]     0.71(OK)[C2]
+                                41.81(OK)[C3]       0.70(OK)[C3/AP]     1.08(OK)[C3]
+                                44.41(OK)[C4]       0.29(OK)[C4/AP]     1.05(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/27========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+46(OK)          3.27(OK)        40.23(OK)[C1]       1.01(OK)[C1/AP]     1.11(OK)[C1]
+                                41.58(OK)[C2]       0.100(OK)[C2/AP]    1.11(OK)[C2]
+                                45.55(OK)[C3]       0.62(OK)[C3/AP]     1.15(OK)[C3]
+                                44.12(OK)[C4]       1.28(OK)[C4/AP]     0.79(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/28========
+Interface HundredGigabitEthernet 1/28 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/29========
+Interface HundredGigabitEthernet 1/29 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/30========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+33(OK)          3.27(OK)        7.80(OK)[C1]        0.58(OK)[C1/AP]     -0.03(OK)[C1]
+                                7.80(OK)[C2]        0.21(OK)[C2/AP]     -0.03(OK)[C2]
+                                7.80(OK)[C3]        0.62(OK)[C3/AP]     0.18(OK)[C3]
+                                7.80(OK)[C4]        0.70(OK)[C4/AP]     0.25(OK)[C4]
+
+========Interface HundredGigabitEthernet 1/31========
+Interface HundredGigabitEthernet 1/31 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/32========
+Interface HundredGigabitEthernet 1/32 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/33========
+Interface HundredGigabitEthernet 1/33 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/34========
+Interface HundredGigabitEthernet 1/34 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/35========
+Interface HundredGigabitEthernet 1/35 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 1/36========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+39(OK)          3.27(OK)        41.82(OK)[C1]       -0.02(OK)[C1/AP]    1.29(OK)[C1]
+                                41.55(OK)[C2]       0.88(OK)[C2/AP]     1.19(OK)[C2]
+                                42.06(OK)[C3]       1.71(OK)[C3/AP]     1.29(OK)[C3]
+                                39.16(OK)[C4]       1.15(OK)[C4/AP]     1.16(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/1========
+Interface HundredGigabitEthernet 2/1 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/2========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+30(OK)          3.31(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/3========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+30(OK)          3.31(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/4========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+33(OK)          3.31(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/5========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+30(OK)          3.31(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/6========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+32(OK)          3.30(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/7========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+31(OK)          3.30(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/8========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+32(OK)          3.30(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/9========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+31(OK)          3.29(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/10========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+35(OK)          3.30(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/11========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+30(OK)          3.30(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/12========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+34(OK)          3.30(OK)        NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+                                NA                  NA                  NA
+
+========Interface HundredGigabitEthernet 2/13========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+44(OK)          3.27(OK)        43.40(OK)[C1]       0.25(OK)[C1/AP]     0.91(OK)[C1]
+                                39.76(OK)[C2]       0.49(OK)[C2/AP]     1.40(OK)[C2]
+                                41.32(OK)[C3]       0.44(OK)[C3/AP]     1.22(OK)[C3]
+                                40.50(OK)[C4]       0.62(OK)[C4/AP]     1.33(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/14========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+48(OK)          3.27(OK)        46.23(OK)[C1]       0.22(OK)[C1/AP]     0.86(OK)[C1]
+                                46.19(OK)[C2]       1.12(OK)[C2/AP]     0.99(OK)[C2]
+                                40.67(OK)[C3]       2.15(OK)[C3/AP]     1.40(OK)[C3]
+                                43.22(OK)[C4]       1.44(OK)[C4/AP]     1.19(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/15========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+44(OK)          3.28(OK)        43.01(OK)[C1]       0.53(OK)[C1/AP]     0.92(OK)[C1]
+                                44.56(OK)[C2]       0.93(OK)[C2/AP]     0.82(OK)[C2]
+                                44.81(OK)[C3]       1.13(OK)[C3/AP]     0.91(OK)[C3]
+                                44.57(OK)[C4]       1.46(OK)[C4/AP]     0.85(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/16========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+46(OK)          3.27(OK)        36.23(OK)[C1]       0.93(OK)[C1/AP]     1.47(OK)[C1]
+                                39.83(OK)[C2]       1.28(OK)[C2/AP]     1.77(OK)[C2]
+                                41.05(OK)[C3]       1.54(OK)[C3/AP]     1.07(OK)[C3]
+                                44.76(OK)[C4]       1.27(OK)[C4/AP]     1.29(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/17========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+46(OK)          3.25(OK)        43.17(OK)[C1]       0.85(OK)[C1/AP]     1.50(OK)[C1]
+                                46.77(OK)[C2]       1.18(OK)[C2/AP]     1.27(OK)[C2]
+                                39.92(OK)[C3]       1.50(OK)[C3/AP]     1.59(OK)[C3]
+                                45.53(OK)[C4]       1.29(OK)[C4/AP]     -0.28(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/18========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+47(OK)          3.27(OK)        42.27(OK)[C1]       -0.74(OK)[C1/AP]    1.04(OK)[C1]
+                                41.38(OK)[C2]       0.62(OK)[C2/AP]     1.24(OK)[C2]
+                                40.96(OK)[C3]       0.43(OK)[C3/AP]     1.30(OK)[C3]
+                                45.88(OK)[C4]       0.66(OK)[C4/AP]     0.98(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/19========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+47(OK)          3.24(OK)        40.18(OK)[C1]       0.30(OK)[C1/AP]     1.17(OK)[C1]
+                                42.55(OK)[C2]       0.84(OK)[C2/AP]     1.12(OK)[C2]
+                                46.69(OK)[C3]       1.69(OK)[C3/AP]     1.16(OK)[C3]
+                                39.80(OK)[C4]       1.62(OK)[C4/AP]     1.18(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/20========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+48(OK)          3.26(OK)        39.22(OK)[C1]       1.07(OK)[C1/AP]     0.94(OK)[C1]
+                                41.73(OK)[C2]       0.77(OK)[C2/AP]     1.09(OK)[C2]
+                                41.06(OK)[C3]       1.03(OK)[C3/AP]     1.16(OK)[C3]
+                                44.89(OK)[C4]       1.61(OK)[C4/AP]     1.17(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/21========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+45(OK)          3.25(OK)        45.53(OK)[C1]       0.76(OK)[C1/AP]     0.13(OK)[C1]
+                                45.46(OK)[C2]       0.39(OK)[C2/AP]     0.59(OK)[C2]
+                                45.42(OK)[C3]       1.29(OK)[C3/AP]     0.98(OK)[C3]
+                                41.94(OK)[C4]       1.90(OK)[C4/AP]     0.89(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/22========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+48(OK)          3.25(OK)        44.79(OK)[C1]       -5.14(OK)[C1/AP]    1.28(OK)[C1]
+                                40.83(OK)[C2]       -4.51(OK)[C2/AP]    1.40(OK)[C2]
+                                38.23(OK)[C3]       -3.95(OK)[C3/AP]    0.58(OK)[C3]
+                                46.08(OK)[C4]       -3.10(OK)[C4/AP]    0.57(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/23========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+47(OK)          3.25(OK)        45.84(OK)[C1]       -4.78(OK)[C1/AP]    0.65(OK)[C1]
+                                45.72(OK)[C2]       -3.80(OK)[C2/AP]    0.74(OK)[C2]
+                                41.32(OK)[C3]       -3.61(OK)[C3/AP]    1.21(OK)[C3]
+                                42.53(OK)[C4]       -3.24(OK)[C4/AP]    1.51(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/24========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+47(OK)          3.26(OK)        41.97(OK)[C1]       1.10(OK)[C1/AP]     1.29(OK)[C1]
+                                45.72(OK)[C2]       0.59(OK)[C2/AP]     0.34(OK)[C2]
+                                45.84(OK)[C3]       1.44(OK)[C3/AP]     0.18(OK)[C3]
+                                45.73(OK)[C4]       0.21(OK)[C4/AP]     0.41(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/25========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+42(OK)          3.26(OK)        41.24(OK)[C1]       -0.79(OK)[C1/AP]    1.27(OK)[C1]
+                                43.71(OK)[C2]       0.10(OK)[C2/AP]     0.61(OK)[C2]
+                                41.13(OK)[C3]       -0.25(OK)[C3/AP]    1.44(OK)[C3]
+                                38.69(OK)[C4]       0.34(OK)[C4/AP]     1.45(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/26========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+42(OK)          3.26(OK)        44.23(OK)[C1]       0.08(OK)[C1/AP]     0.72(OK)[C1]
+                                43.05(OK)[C2]       -0.30(OK)[C2/AP]    1.32(OK)[C2]
+                                36.92(OK)[C3]       0.94(OK)[C3/AP]     1.39(OK)[C3]
+                                38.28(OK)[C4]       0.37(OK)[C4/AP]     1.05(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/27========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+38(OK)          3.26(OK)        39.18(OK)[C1]       1.42(OK)[C1/AP]     1.32(OK)[C1]
+                                40.27(OK)[C2]       1.85(OK)[C2/AP]     1.28(OK)[C2]
+                                37.34(OK)[C3]       1.04(OK)[C3/AP]     1.17(OK)[C3]
+                                41.75(OK)[C4]       0.91(OK)[C4/AP]     1.39(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/28========
+Interface HundredGigabitEthernet 2/28 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/29========
+Interface HundredGigabitEthernet 2/29 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/30========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+31(OK)          3.26(OK)        7.80(OK)[C1]        -0.19(OK)[C1/AP]    0.11(OK)[C1]
+                                7.80(OK)[C2]        -0.33(OK)[C2/AP]    0.11(OK)[C2]
+                                7.80(OK)[C3]        0.27(OK)[C3/AP]     -0.18(OK)[C3]
+                                7.80(OK)[C4]        -0.15(OK)[C4/AP]    0.49(OK)[C4]
+
+========Interface HundredGigabitEthernet 2/31========
+Interface HundredGigabitEthernet 2/31 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/32========
+Interface HundredGigabitEthernet 2/32 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/33========
+Interface HundredGigabitEthernet 2/33 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/34========
+Interface HundredGigabitEthernet 2/34 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/35========
+Interface HundredGigabitEthernet 2/35 : the transceiver is absent!
+
+========Interface HundredGigabitEthernet 2/36========
+Current diagnostic parameters[C1:Channel-1 C2:Channel-2 C3:Channel-3 C4:Channel-4 AP:Average Power]:
+Temp(Celsius)   Voltage(V)      Bias(mA)            RX power(dBm)       TX power(dBm)
+38(OK)          3.28(OK)        42.59(OK)[C1]       1.35(OK)[C1/AP]     -0.28(OK)[C1]
+                                42.75(OK)[C2]       1.82(OK)[C2/AP]     0.52(OK)[C2]
+                                42.00(OK)[C3]       0.96(OK)[C3/AP]     1.04(OK)[C3]
+                                42.84(OK)[C4]       1.50(OK)[C4/AP]     0.98(OK)[C4]

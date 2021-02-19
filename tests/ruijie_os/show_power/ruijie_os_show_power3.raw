@@ -1,0 +1,29 @@
+ESR1#show power
+Chassis-type: N18010-X
+Power-redun: no
+Energy-saving: off
+
+power-id  power-type    supply(W)  status      vol-in/out(V)  cur-out(mA)  supply-out(W)
+--------  ------------  ---------  ----------  -------------  -----------  -------------
+1         RG-PA2700I    2700       ok          230   /53.770   25180        1353
+2         RG-PA2700I    2700       ok          224   /53.880   24490        1319
+3         N/A           N/A        no-present  N/A   /N/A      N/A          N/A
+4         N/A           N/A        no-present  N/A   /N/A      N/A          N/A
+5         N/A           N/A        no-present  N/A   /N/A      N/A          N/A
+6         N/A           0          fail        N/A   /N/A      N/A          N/A
+7         N/A           N/A        no-present  N/A   /N/A      N/A          N/A
+8         N/A           N/A        no-present  N/A   /N/A      N/A          N/A
+
+slot    card_type                        status      require(W)  allocate(W)
+------- -------------------------------- ----------  ----------  -----------
+1       M18000X-48CQ-CE                  power-on    795         795
+2       M18000X-48CQ-CE                  power-on    795         795
+8       M18000X-48CQ-CE                  power-on    795         795
+FE3     M18010X-FE-E II                  power-on    380         380
+FE6     M18010X-FE-E II                  power-on    380         380
+M1      M18000X-CM X                     power-on    110         110
+M2      M18000X-CM X                     power-on    110         110
+          
+total-power(W) redundancy(W) available(W) card-used(W) fan-used(W) free-power(W)
+-------------- ------------- ------------ ------------ ----------- --------------
+5400           0             5400         3365         1275        760
