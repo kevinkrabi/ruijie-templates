@@ -33,7 +33,7 @@ cp *.textfsm Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site
 ruijie_os_show_ip_bgp_neighbors_advertised-routes.textfsm, .*, ruijie_os, sh[[ow]] ip bgp nei[[ghbors]](\s+\d+\.\d+\.\d+\.\d+)? adv[[ertised-routes]]
 ruijie_os_show_interfaces_transceiver_diagnosis.textfsm, .*, ruijie_os, sh[[ow]] int[[erfaces]] trans[[ceiver]] dia[[gnosis]]
 ruijie_os_show_interfaces_status_err-disabled.textfsm, .*, ruijie_os, sh[[ow]] int[[erfaces]] st[[atus]] err[[-disabled]]
-ruijie_os_show_interfaces_counters_rate.textfsm, .*, ruijie_os, sh[[ow]] int[[erfaces]] c[[ounters]] r[[ate]]
+ruijie_os_show_interfaces_counters_rate.textfsm, .*, ruijie_os, sh[[ow]] int[[erfaces]] c[[ounters]] r[[ate]](\s+[[up]])?
 ruijie_os_show_interfaces_description.textfsm, .*, ruijie_os, sh[[ow]] int[[erfaces]] de[[scription]]
 ruijie_os_show_interfaces_transceiver.textfsm, .*, ruijie_os, sh[[ow]] int[[erfaces]] trans[[ceiver]]
 ruijie_os_show_lldp_neighbors_detail.textfsm, .*, ruijie_os, sh[[ow]] lld[[p]] neig[[hbors]] de[[tail]]
@@ -64,6 +64,7 @@ ruijie_os_show_interfaces.textfsm, .*, ruijie_os, sh[[ow]] int[[erfaces]]
 ruijie_os_show_route-map.textfsm, .*, ruijie_os, sh[[ow]] route-m[[ap]]
 ruijie_os_show_ip_route.textfsm, .*, ruijie_os, sh[[ow]] ip r[[oute]]
 ruijie_os_show_manuinfo.textfsm, .*, ruijie_os, sh[[ow]] man[[uinfo]]
+ruijie_os_show_logging.textfsm, .*, ruijie_os, sh[[ow]] log[[ging]]
 ruijie_os_show_version.textfsm, .*, ruijie_os, sh[[ow]] ver[[sion]]
 ruijie_os_show_ip_bgp.textfsm, .*, ruijie_os, sh[[ow]] i[[p]] bgp
 ruijie_os_show_clock.textfsm, .*, ruijie_os, sh[[ow]] clo[[ck]]
