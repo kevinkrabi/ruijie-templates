@@ -16,7 +16,7 @@ ruijie-templates是基于textFSM规则开发，用于适配ntc-templates的模�
 推荐使用方法一将本模板库合并入ntc-templates模块使用，具体操作步骤如下：
 #### 下载模板库
 ```shell
- git clone git@github.com:networktocode/ntc-templates.git
+ git clone git@github.com:kevinkrabi/ruijie-templates.git
 ```
 #### 模板文件导入ntc-templates
 将templates目录下的所有textfsm文件导入ntc-templates库的templates目录。
