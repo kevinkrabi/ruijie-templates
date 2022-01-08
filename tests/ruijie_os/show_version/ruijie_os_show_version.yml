@@ -1,9 +1,0 @@
----
-parsed_sample:
-  - switch: "N18010-X"
-    start_time: "2020-11-30 15:23:45"
-    uptime: "0:19:35:50"
-    version: "N18000-X_RGOS 12.4(1)B0301P8"
-    patch: "NA"
-    boot_version: "1.0.13(Master) N/A(Slave)"
-    rboot_version: "1.1.19"

@@ -1,9 +1,0 @@
----
-parsed_sample:
-  - switch: "S6910-3C"
-    start_time: "2020-11-21 15:12:01"
-    uptime: "7:19:51:43"
-    version: "S6910_RGOS 12.4(1)B0201"
-    patch: "NA"
-    boot_version: "1.0.5(Master) 1.0.5(Slave)"
-    rboot_version: "1.1.18"

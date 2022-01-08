@@ -1,8 +1,0 @@
----
-parsed_sample:
-  - time: "18:28:53"
-    timezone: "BJT"
-    dayweek: "Sat"
-    month: "Dec"
-    day: "5"
-    year: "2020"

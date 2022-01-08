@@ -1,6 +1,0 @@
----
-parsed_sample:
-  - policy: "coordinate"
-    package: "flash:auto_pkg_dir/ps64.bin"
-    range: "chassis"
-    patch: "flash:auto_patch_dir/N18000-X_RGOS11.3(1)B6P80_CMXII-DB_SP3.bin"

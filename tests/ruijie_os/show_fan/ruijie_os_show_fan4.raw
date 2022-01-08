@@ -1,9 +1,0 @@
-ASW1#show fan 
-Fan id Type             Status     Hardware Version Serial Number  
------- ---------------- ---------- ---------------- ---------------
-1/1    M6220-FAN II-F   ok         1.01             G1L31JQ00227C  
-1/2    M6220-FAN II-F   ok         1.01             G1L31JQ00225B  
-1/3    M6220-FAN II-F   ok         1.01             G1L31JQ002286  
-2/1    M6220-FAN II-F   ok         1.03             G1LB02D00692B  
-2/2    M6220-FAN II-F   ok         1.03             G1LB02D005263  
-2/3    M6220-FAN II-F   ok         1.03             G1LB02D005200  

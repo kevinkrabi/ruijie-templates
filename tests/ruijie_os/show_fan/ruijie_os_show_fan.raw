@@ -1,7 +1,0 @@
-ASW8-B9P43S1#show fan 
-Fan id Type             Status     Hardware Version Serial Number  
------- ---------------- ---------- ---------------- ---------------
-1      M6510-FAN-F      ok         2.00             G1ML72H001055  
-2      M6510-FAN-F      ok         2.00             G1ML90X001254  
-3      M6510-FAN-F      ok         2.00             G1ML91J00060B  
-4      M6510-FAN-F      ok         2.00             G1MB143003599  

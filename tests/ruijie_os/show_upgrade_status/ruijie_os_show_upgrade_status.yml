@@ -1,6 +1,0 @@
----
-parsed_sample:
-  - slot: "0"
-    status: "ready"
-    device_type: "s6k"
-    reason: ""

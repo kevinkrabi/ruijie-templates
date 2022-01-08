@@ -1,4 +1,0 @@
-auto-sync range      : vsu
-auto-sync policy     : coordinate 
-auto-sync package    : flash:S6500_RGOS11.0(5)B9P43S1_install.bin 
-auto-sync patch      :  
